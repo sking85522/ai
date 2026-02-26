@@ -1,0 +1,740 @@
+[
+  {
+    "category": "Agriculture & Food",
+    "datasets": [
+      {
+        "title": "Global Fishing Industry by Country",
+        "subtitle": "World fisheries production by country, showing capture fisheries and aquaculture output (in tonnes), including fish, crustaceans, and molluscs.",
+        "updated_at": "December 31, 2025 01:07 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/fishing_industry_by_country.json"
+      },
+      {
+        "title": "Most Valuable Crops and Livestock Products Worldwide",
+        "subtitle": "A global ranking of top agricultural and livestock products by total production value, quantity, and leading producing countries.",
+        "updated_at": "October 13, 2025 03:18 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/global_gross_production_of_crops_livestock.json"
+      },
+      {
+        "title": "Largest Fast-Food Restaurant Chains by Number of Locations Worldwide",
+        "subtitle": "A global ranking of major fast-food restaurant chains based on their total number of locations and revenue.",
+        "updated_at": "October 09, 2025 09:16 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/largest_fast_food_restaurant_chains.json"
+      },
+      {
+        "title": "Top Coffee-Producing Countries and Their Global Share",
+        "subtitle": "List of the leading coffee-producing nations, their major growing regions, and their percentage contribution to global coffee production.",
+        "updated_at": "October 14, 2025 02:34 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/top_coffee_producing_countries.json"
+      },
+      {
+        "title": "Global Tea Production by Country",
+        "subtitle": "Tea production statistics by country, including total output, per-capita production, cultivated area, and yield.",
+        "updated_at": "December 31, 2025 01:37 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/agriculture-food/world_tea_production_by_country.json"
+      }
+    ]
+  },
+  {
+    "category": "Arts & Literature",
+    "datasets": [
+      {
+        "title": "Annual Book Publishing by Country",
+        "subtitle": "Number of books published per country per year",
+        "updated_at": "December 30, 2025 02:17 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/arts-literature/books_published_per_country_per_year.json"
+      },
+      {
+        "title": "List of Best-Selling Books Worldwide",
+        "subtitle": "Books, authors, languages, publication years, sales estimates, and genres",
+        "updated_at": "December 08, 2025 03:08 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/arts-literature/list_of_best_selling_books.json"
+      },
+      {
+        "title": "Most Translated Literary Works Worldwide",
+        "subtitle": "Literary works ranked by number of languages translated into",
+        "updated_at": "December 31, 2025 12:31 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/arts-literature/most_translated_literary_works.json"
+      },
+      {
+        "title": "Most Visited Museums in the World",
+        "subtitle": "Global ranking of museums by annual visitor count",
+        "updated_at": "November 06, 2025 03:52 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/arts-literature/most_visited_museums.json"
+      },
+      {
+        "title": "Timeline of Western Philosophers",
+        "subtitle": "Chronological overview of major Western philosophers, organized by era and active years.",
+        "updated_at": "November 17, 2025 04:21 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/arts-literature/timeline_of_western_philosophers.json"
+      }
+    ]
+  },
+  {
+    "category": "Awards & Achievements",
+    "datasets": [
+      {
+        "title": "Academy Award Winners for Best Picture",
+        "subtitle": "Best Picture winners from 1927 to 2024",
+        "updated_at": "December 30, 2025 01:57 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/academy_award_winners_for_best_picture.json"
+      },
+      {
+        "title": "Fields Medal Winners by Year",
+        "subtitle": "Year-wise list of Fields Medal recipients with nationality, gender, and affiliation",
+        "updated_at": "January 29, 2026 12:11 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/fields_medal_prize_for_mathematics.json"
+      },
+      {
+        "title": "Grammy Winners (2025-1958)",
+        "subtitle": "Award categories and nominations from 2025 to 1958",
+        "updated_at": "December 26, 2025 10:29 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/grammy_winners.json"
+      },
+      {
+        "title": "Nobel Prizes 2024",
+        "subtitle": "Complete list of Nobel Prizes from 1901 to 2024",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/nobel_prizes.json"
+      },
+      {
+        "title": "Pulitzer Prize for Fiction Winners",
+        "subtitle": "Yearly list of Pulitzer Prize for Fiction winning authors and their works",
+        "updated_at": "October 29, 2025 08:48 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/awards-achievements/pulitzer_prize_for_fiction.json"
+      }
+    ]
+  },
+  {
+    "category": "Climate & Weather",
+    "datasets": [
+      {
+        "title": "Countries by Average Annual Precipitation",
+        "subtitle": "Ranking of countries based on their yearly average rainfall in millimeters and inches",
+        "updated_at": "October 29, 2025 10:06 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/climate-weather/countries_by_average_annual_precipitation.json"
+      },
+      {
+        "title": "Countries by Recorded Temperature Extremes",
+        "subtitle": "Highest and lowest temperatures recorded by country, including location and date",
+        "updated_at": "January 29, 2026 08:18 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/climate-weather/highest_and_lowest_recorded_temperatures_by_country.json"
+      },
+      {
+        "title": "Tropical Cyclone Records (2025)",
+        "subtitle": "Notable Tropical Cyclone Records in 2025",
+        "updated_at": "September 11, 2025 04:17 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/climate-weather/tropical_cyclone_records.json"
+      },
+      {
+        "title": "Average Surface Temperature Yearly (1990 - 2022)",
+        "subtitle": "Average Surface Temperature Yearly 1990 - 2022",
+        "updated_at": "September 10, 2025 05:37 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/climate-weather/yearly_average_surface_temperature_by_country.json"
+      }
+    ]
+  },
+  {
+    "category": "Demographics & Population",
+    "datasets": [
+      {
+        "title": "Immigration by Country (2025)",
+        "subtitle": "Total immigrants, gender split and population share in 2025.",
+        "updated_at": "December 10, 2025 12:56 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/immigration_by_country.json"
+      },
+      {
+        "title": "Largest Cities by Population (2025)",
+        "subtitle": "City-wise population data for the year 2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/largest_cities_by_population.json"
+      },
+      {
+        "title": "Median Age by Country (2024)",
+        "subtitle": "Median age is the age at which half the population is older and half is younger, roughly representing the midpoint of a population’s lifespan.",
+        "updated_at": "December 26, 2025 04:00 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/median_age_by_country.json"
+      },
+      {
+        "title": "Most Urbanized Countries by Population (2023)",
+        "subtitle": "Countries ranked by share of population living in urban areas and urbanization growth rate.",
+        "updated_at": "December 25, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/most_urbanized_countries.json"
+      },
+      {
+        "title": "Refugee Population by Country (2012–2024)",
+        "subtitle": "Number of UNHCR-registered refugees hosted by each country or territory.",
+        "updated_at": "January 26, 2026 11:13 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/refugee_population_by_country.json"
+      },
+      {
+        "title": "World Population by Country (2025)",
+        "subtitle": "Latest country-wise population data as of 2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/demographics-population/world_population_by_country.json"
+      }
+    ]
+  },
+  {
+    "category": "Economy & Finance",
+    "datasets": [
+      {
+        "title": "Debt-to-GDP Ratios by Country (2024)",
+        "subtitle": "Total, central government, and general government debt as a percentage of GDP by country.",
+        "updated_at": "January 26, 2026 10:24 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/debt_to_gdp_ratio_by_country.json"
+      },
+      {
+        "title": "Forbes Billionaires List",
+        "subtitle": "Up-to-date ranking of the world's wealthiest individuals as of August 20, 2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/forbes_billionaires_list.json"
+      },
+      {
+        "title": "Global GDP by Country (2023)",
+        "subtitle": "Nominal GDP (in USD) for all countries in 2023",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/gdp_by_country.json"
+      },
+      {
+        "title": "Gold Reserves by Country",
+        "subtitle": "Top countries ranked by gold holdings and share of foreign exchange reserves.",
+        "updated_at": "December 25, 2025 06:07 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/gold_reserve_by_country.json"
+      },
+      {
+        "title": "Top Stock Exchange Companies by Market Cap",
+        "subtitle": "Ranking of major global stock exchange operators by market capitalization.",
+        "updated_at": "December 25, 2025 08:00 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/largest_stock_exchanges_by_market_cap.json"
+      },
+      {
+        "title": "Countries by Total Exports",
+        "subtitle": "Exports of goods and services by country, including total values (USD millions) and major export categories.",
+        "updated_at": "November 18, 2025 10:26 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_exports.json"
+      },
+      {
+        "title": "Countries by Foreign Direct Investment (FDI) Inflows",
+        "subtitle": "Annual FDI inflows for countries and territories in USD with reporting years.",
+        "updated_at": "November 17, 2025 05:09 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_foreign_direct_investment_inflows.json"
+      },
+      {
+        "title": "Countries by Income Inequality",
+        "subtitle": "Gini coefficients from World Bank, UNU-WIDER, and OECD with reporting years.",
+        "updated_at": "November 18, 2025 10:21 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_income_inequality.json"
+      },
+      {
+        "title": "Inflation Rate by Country (2015–2024)",
+        "subtitle": "Annual inflation rates for each country from 2015 to 2024",
+        "updated_at": "September 11, 2025 04:09 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_inflation_rate.json"
+      },
+      {
+        "title": "Remittances Received by Country",
+        "subtitle": "Annual remittances received by each country in USD millions and percentage of GDP",
+        "updated_at": "January 12, 2026 09:37 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_countries_by_remittances_received.json"
+      },
+      {
+        "title": "Largest Banks in the World by Assets",
+        "subtitle": "Top global banks ranked by total assets (USD), based on S&P Global data (2025).",
+        "updated_at": "December 24, 2025 10:58 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/list_of_largest_banks.json"
+      },
+      {
+        "title": "NEPSE Listed Companies",
+        "subtitle": "List of all companies listed on NEPSE with their shares, paid-up value, and sector",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/nepse_listed_companies.json"
+      },
+      {
+        "title": "S&P 500 Historical Performance",
+        "subtitle": "Annual index changes, total returns, and long-term annualized performance",
+        "updated_at": "December 09, 2025 02:08 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/economy-finance/sp500_historical_performance.json"
+      }
+    ]
+  },
+  {
+    "category": "Education & Knowledge",
+    "datasets": [
+      {
+        "title": "Literacy Rate by Country (2025)",
+        "subtitle": "Percentage of adults (15+) who can read and write a simple statement in everyday life, 2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/literacy_rate_by_country.json"
+      },
+      {
+        "title": "Oldest Universities in the World",
+        "subtitle": "List of the world's oldest continuously operating universities with their founding years and locations.",
+        "updated_at": "November 07, 2025 02:44 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/oldest_universities_in_the_world.json"
+      },
+      {
+        "title": "Research & Innovation Rankings",
+        "subtitle": "Global universities and institutions ranked by research output, innovation, and impact [SCImago]",
+        "updated_at": "December 17, 2025 09:50 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/research_and_innovation_rankings.json"
+      },
+      {
+        "title": "Global University Rankings 2025",
+        "subtitle": "Comprehensive list of top universities worldwide in 2025",
+        "updated_at": "September 04, 2025 05:23 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/education-knowledge/world_university_ranking.json"
+      }
+    ]
+  },
+  {
+    "category": "Energy & Industry",
+    "datasets": [
+      {
+        "title": "World's Largest Automakers by Market Capitalization – October 2025",
+        "subtitle": "A ranking of leading automobile manufacturers worldwide based on their total market capitalization as of October 2025.",
+        "updated_at": "October 08, 2025 10:54 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/energy-industry/largest_automakers_by_market_capitalization.json"
+      },
+      {
+        "title": "Lithium Production, Reserves, and Resources by Country",
+        "subtitle": "Annual lithium production, proved reserves, and estimated resources by country (in tonnes), based on Wikipedia data.",
+        "updated_at": "December 24, 2025 06:47 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/energy-industry/list_of_countries_by_lithium_production.json"
+      },
+      {
+        "title": "Major Oil Fields of the World",
+        "subtitle": "Oil fields with estimated ultimate recoverable reserves exceeding 1 billion barrels",
+        "updated_at": "December 24, 2025 09:54 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/energy-industry/list_of_oil_fields.json"
+      },
+      {
+        "title": "Oil Production by Country (Barrels per Day)",
+        "subtitle": "List of countries ranked by average daily crude oil production, including continent-wise distribution.",
+        "updated_at": "October 09, 2025 02:14 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/energy-industry/oil_production_by_country.json"
+      },
+      {
+        "title": "Renewable Electricity Production by Country (TWh)",
+        "subtitle": "Breakdown of renewable energy generation by source (hydro, wind, solar, biomass, geothermal) by country and year.",
+        "updated_at": "October 08, 2025 11:10 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/energy-industry/renewable_electricity_production_by_country.json"
+      }
+    ]
+  },
+  {
+    "category": "Geography & Environment",
+    "datasets": [
+      {
+        "title": "Global CO₂ Emissions by Country (2023)",
+        "subtitle": "Tonnes, per capita, per GDP, and share of world emissions",
+        "updated_at": "September 02, 2025 10:38 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/co2_emissions_by_country.json"
+      },
+      {
+        "title": "World’s Major Deserts by Area (2025)",
+        "subtitle": "List of the largest deserts and their sizes in 2025",
+        "updated_at": "September 12, 2025 11:48 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/largest_deserts_in_the_world.json"
+      },
+      {
+        "title": "Largest Protected Areas in the World",
+        "subtitle": "Protected areas worldwide with a surface area exceeding 250,000 square kilometres",
+        "updated_at": "December 23, 2025 11:26 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/largest_protected_areas.json"
+      },
+      {
+        "title": "Countries by Forest Area",
+        "subtitle": "Forest area by country, measured in thousand hectares across selected years.",
+        "updated_at": "November 26, 2025 10:48 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_countries_by_forest_area.json"
+      },
+      {
+        "title": "Countries by Length of Coastline",
+        "subtitle": "Coastline lengths (km) by country, with CIA/WRI estimates, land area, and coastline-to-area ratios.",
+        "updated_at": "November 18, 2025 10:54 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_countries_by_length_of_coastline.json"
+      },
+      {
+        "title": "Highest Mountains on Earth",
+        "subtitle": "A ranked list of the world's tallest mountains with key geographic details.",
+        "updated_at": "November 26, 2025 10:31 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_highest_mountains_on_earth.json"
+      },
+      {
+        "title": "Largest Islands in the World by Area",
+        "subtitle": "Ranked list of the world's islands larger than 1,000 square kilometers, including area and political divisions.",
+        "updated_at": "December 23, 2025 11:46 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_islands_by_area.json"
+      },
+      {
+        "title": "Largest Lakes by Surface Area",
+        "subtitle": "Major terrestrial lakes over 3,000 km², ranked by area.",
+        "updated_at": "December 08, 2025 05:09 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_lakes_by_area.json"
+      },
+      {
+        "title": "List of the World’s Largest Dams by Structural Volume",
+        "subtitle": "Dataset of major dams ranked by fill/structure volume, including location, height, reservoir capacity, installed power, and dam type (TE-Earth, ER-Rock-fill, PG-Concrete gravity).",
+        "updated_at": "December 10, 2025 12:48 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/list_of_largest_dams.json"
+      },
+      {
+        "title": "Longest Rivers in the World",
+        "subtitle": "Details of the world's longest rivers, including length, outflow, and countries sharing the basin",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/longest_rivers.json"
+      },
+      {
+        "title": "Global Water Stress Rankings (2023)",
+        "subtitle": "Country-wise water stress levels and baseline stress comparison",
+        "updated_at": "December 05, 2025 05:46 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/geography-environment/water_stress_by_country.json"
+      }
+    ]
+  },
+  {
+    "category": "Health & Medicine",
+    "datasets": [
+      {
+        "title": "Life Expectancy by Country (2025)",
+        "subtitle": "Average life expectancy of adults worldwide, with breakdown by gender, as reported in 2025.",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/life_expectancy_by_country.json"
+      },
+      {
+        "title": "Health Expenditure per Capita by Country (2020–2024)",
+        "subtitle": "Total health spending per capita (PPP, international dollars) for OECD and non-OECD countries, 2020–2024",
+        "updated_at": "November 11, 2025 08:53 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/list_of_countries_by_total_health_expenditure_per_capita.json"
+      },
+      {
+        "title": "Major Epidemics and Pandemics",
+        "subtitle": "Global outbreaks with over 1 million deaths",
+        "updated_at": "December 09, 2025 01:56 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/major_epidemics_and_pandemics.json"
+      },
+      {
+        "title": "Obesity Rates by Country (WHO, 2022)",
+        "subtitle": "Percentage of adults classified as obese (BMI ≥ 30 kg/m²), based on WHO data, including total, male, and female obesity rates.",
+        "updated_at": "December 23, 2025 10:46 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/obesity_rates_by_country.json"
+      },
+      {
+        "title": "Global Vaccination Rates by Country (2025)",
+        "subtitle": "BCG, DTP3, HIB3, MCV1, POL3, and YFV vaccination coverage by country in 2025.",
+        "updated_at": "November 07, 2025 03:17 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/health-medicine/vaccination_rates_by_country.json"
+      }
+    ]
+  },
+  {
+    "category": "History & Culture",
+    "datasets": [
+      {
+        "title": "Timeline of Ancient History",
+        "subtitle": "Key historical eras and notable events from the beginning of recorded history to the Early Middle Ages",
+        "updated_at": "December 23, 2025 10:29 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/history-culture/timeline_of_ancient_history.json"
+      },
+      {
+        "title": "UNESCO World Heritage Sites by Country",
+        "subtitle": "Country-wise count of cultural, natural, and mixed UNESCO World Heritage Sites",
+        "updated_at": "December 09, 2025 12:51 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/history-culture/world_heritage_sites_by_country.json"
+      }
+    ]
+  },
+  {
+    "category": "Miscellaneous / General Data",
+    "datasets": [
+      {
+        "title": "Most Common last names by Country",
+        "subtitle": "The most frequently occurring family names in each country",
+        "updated_at": "December 23, 2025 10:00 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/misc-general/common_last_names_by_country.json"
+      },
+      {
+        "title": "ISO 3166 Country Codes",
+        "subtitle": "Official list of ISO 3166 codes for countries and territories",
+        "updated_at": "September 17, 2025 01:56 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/misc-general/iso_3166_country_codes.json"
+      },
+      {
+        "title": "Most Spoken Languages Worldwide (2025)",
+        "subtitle": "Comprehensive list of languages ranked by native (L1), second-language (L2), and total speakers as of 2025",
+        "updated_at": "September 17, 2025 12:25 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/misc-general/most_spoken_languages.json"
+      },
+      {
+        "title": "World Time Zones",
+        "subtitle": "Countries and cities organized by UTC offset",
+        "updated_at": "September 22, 2025 07:54 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/misc-general/world_time_zones_and_utc_offsets.json"
+      }
+    ]
+  },
+  {
+    "category": "Politics & Governance",
+    "datasets": [
+      {
+        "title": "Corruption Perceptions Index by Country (2024)",
+        "subtitle": "Country rankings based on perceived public sector corruption (CPI 2024).",
+        "updated_at": "November 04, 2025 04:46 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/corruption_perceptions_index.json"
+      },
+      {
+        "title": "Democracy Index Rankings by Country (2024)",
+        "subtitle": "Country-wise democracy index scores and year-over-year changes",
+        "updated_at": "December 22, 2025 11:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/democracy_index_by_country.json"
+      },
+      {
+        "title": "Global Military Expenditure Rankings",
+        "subtitle": "Top countries by military spending based on the 2024 SIPRI Military Expenditure Database.",
+        "updated_at": "December 08, 2025 04:49 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/list_of_countries_with_highest_military_expenditures.json"
+      },
+      {
+        "title": "Global Passport Power Rankings (2025)",
+        "subtitle": "Countries ranked by passport strength, visa-free access, and openness score in 2025",
+        "updated_at": "December 22, 2025 11:16 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/official_passport_index_ranking.json"
+      },
+      {
+        "title": "Religious Freedom Index (2024)",
+        "subtitle": "Global ranking of countries based on their level of religious freedom in 2024",
+        "updated_at": "November 05, 2025 10:31 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/religious_freedom_index.json"
+      },
+      {
+        "title": "Current Heads of State and Government (2025)",
+        "subtitle": "List of countries with their respective leaders as of 2025",
+        "updated_at": "September 17, 2025 01:58 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/politics-governance/world_leaders_in_office.json"
+      }
+    ]
+  },
+  {
+    "category": "Science & Technology",
+    "datasets": [
+      {
+        "title": "Global AI Index - Country Rankings",
+        "subtitle": "A comprehensive ranking of countries based on talent, infrastructure, research, development, commercial activity, and national AI strategy.",
+        "updated_at": "November 14, 2025 06:28 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/global_ai_index.json"
+      },
+      {
+        "title": "Largest Technology Companies by Revenue",
+        "subtitle": "Top global technology companies ranked by annual revenue, profit, employees, and headquarters location",
+        "updated_at": "November 14, 2025 05:21 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/list_of_largest_technology_companies_by_revenue.json"
+      },
+      {
+        "title": "Periodic Table of Elements with Key Properties",
+        "subtitle": "Comprehensive dataset of elements including atomic number, weight, electron configuration, melting/boiling points, and other physical & chemical properties",
+        "updated_at": "September 15, 2025 08:58 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/periodic_table_with_properties.json"
+      },
+      {
+        "title": "Timeline of Historic Inventions",
+        "subtitle": "Chronological overview of significant inventions throughout history, organized by era.",
+        "updated_at": "November 17, 2025 04:22 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/timeline_of_historic_inventions.json"
+      },
+      {
+        "title": "Timeline of Space Exploration (2025)",
+        "subtitle": "A historical record of space missions and events up to 2025",
+        "updated_at": "September 15, 2025 08:30 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/timeline_of_space_exploration.json"
+      },
+      {
+        "title": "Top 10 positions of the 66th TOP500 in November 2025",
+        "subtitle": "TOP500 ranking of the world’s most powerful supercomputers based on LINPACK performance, hardware, and system architecture.",
+        "updated_at": "December 17, 2025 05:35 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/science-technology/top_supercomputers_from_top500.json"
+      }
+    ]
+  },
+  {
+    "category": "Society & Social Issues",
+    "datasets": [
+      {
+        "title": "Crime Index by Country (Numbeo, 2025)",
+        "subtitle": "Countries ranked by Crime Index and Safety Index based on Numbeo data, 2025",
+        "updated_at": "December 17, 2025 05:05 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/crime_rate_by_country.json"
+      },
+      {
+        "title": "Global Gender Gap Index by Country – 2024",
+        "subtitle": "Overall Gender Equality Scores and Key Dimension Breakdown for 2024",
+        "updated_at": "October 08, 2025 09:36 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/global_gender_gap_by_country.json"
+      },
+      {
+        "title": "World Happiness Report 2024",
+        "subtitle": "Country-wise happiness rankings and factors for 2024",
+        "updated_at": "September 22, 2025 07:54 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/happiness_index_by_country.json"
+      },
+      {
+        "title": "Press Freedom Index (2025)",
+        "subtitle": "Global press freedom rankings and scores for the year 2025",
+        "updated_at": "September 22, 2025 07:54 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/press_freedom_index_by_country.json"
+      },
+      {
+        "title": "World Giving Index by Country",
+        "subtitle": "Country rankings in the World Giving Index across multiple years.",
+        "updated_at": "December 15, 2025 10:20 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/society-social/world_giving_index.json"
+      }
+    ]
+  },
+  {
+    "category": "Sports & Entertainment",
+    "datasets": [
+      {
+        "title": "All-Time Summer Olympics Medal Tally (2025)",
+        "subtitle": "Updated Medal Tally up to 2025 (Summer Olympics)",
+        "updated_at": "August 28, 2025 05:17 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/all_time_olympic_games_medal_tally.json"
+      },
+      {
+        "title": "FIFA World Cup Finals (1930 - 2026)",
+        "subtitle": "Complete list of FIFA World Cup finals from 1930 - 2026",
+        "updated_at": "September 10, 2025 04:12 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/fifa_world_cup_finals.json"
+      },
+      {
+        "title": "World’s Highest-Paid Athletes (2025)",
+        "subtitle": "Top athletes ranked by total earnings, salary, and endorsements in 2025.",
+        "updated_at": "December 15, 2025 09:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/highest_paid_athletes.json"
+      },
+      {
+        "title": "IMDb Top 250 Movies",
+        "subtitle": "A curated list of the highest-rated films from IMDb's Top 250",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/imdb_top_movies.json"
+      },
+      {
+        "title": "Highest-Grossing Films of All Time",
+        "subtitle": "Films ranked by worldwide box office revenue, with peak rank and release year.",
+        "updated_at": "December 15, 2025 08:50 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/list_of_highest-grossing_films.json"
+      },
+      {
+        "title": "Most Watched TV Shows of All Time",
+        "subtitle": "IMDB List of the 100 Most Popular and Viewed Series",
+        "updated_at": "December 05, 2025 07:27 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/most_watched_tv_shows_of_all_time.json"
+      },
+      {
+        "title": "Premier League Tables",
+        "subtitle": "Season-by-season league tables from 1992/93 to 2024/2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/sports-entertainment/premier_league_table_all_seasons.json"
+      }
+    ]
+  },
+  {
+    "category": "Technology & Internet",
+    "datasets": [
+      {
+        "title": "Best-Selling Mobile Phones",
+        "subtitle": "Global list of top-selling mobile phone models by total units sold",
+        "updated_at": "December 09, 2025 12:37 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/best_selling_mobile_phones.json"
+      },
+      {
+        "title": "Country-wise median download speeds (Mbits/s) for fixed broadband",
+        "subtitle": "A dataset of median fixed broadband download speeds (Mbps) by country.",
+        "updated_at": "December 05, 2025 06:09 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/internet_connection_speeds_by_country.json"
+      },
+      {
+        "title": "Internet Users by Country 2025",
+        "subtitle": "Estimated Internet Users and Usage Percentage by Country (2025)",
+        "updated_at": "September 02, 2025 10:47 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/internet_users_by_country.json"
+      },
+      {
+        "title": "Unicorn Startup Companies (Valuation Over $1B)",
+        "subtitle": "A global list of privately held startup companies valued at USD 1 billion or more",
+        "updated_at": "December 11, 2025 12:11 PM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/list_of_unicorn_startup_companies.json"
+      },
+      {
+        "title": "Social Media Platforms with 100M+ Active Users (2025)",
+        "subtitle": "Major platforms, their companies, origins, launch years, and active user statistics (2025)",
+        "updated_at": "September 04, 2025 04:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/most_popular_social_platforms.json"
+      },
+      {
+        "title": "TIOBE Index - Top Programming Languages (August 2025)",
+        "subtitle": "Popularity rankings of programming languages as of August 2025",
+        "updated_at": "August 20, 2025 09:42 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/popular_programming_languages.json"
+      },
+      {
+        "title": "Global Web Browser Market Share",
+        "subtitle": "Usage share of major web browsers across multiple data sources",
+        "updated_at": "December 15, 2025 08:31 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/technology-internet/usage_share_of_web_browsers.json"
+      }
+    ]
+  },
+  {
+    "category": "Transportation & Infrastructure",
+    "datasets": [
+      {
+        "title": "Busiest Airports by Passenger Traffic in 2024",
+        "subtitle": "Major international airports ranked by total passenger traffic, location, and year-over-year change",
+        "updated_at": "October 16, 2025 02:28 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/busiest_airports_by_passenger_traffic.json"
+      },
+      {
+        "title": "Countries by Rail Transport Network Size",
+        "subtitle": "Railway length, electrification, density, ownership, and related statistics by country",
+        "updated_at": "October 15, 2025 10:41 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/countries_by_rail_transport_network_size.json"
+      },
+      {
+        "title": "History of the World's Tallest Man-Made Structures",
+        "subtitle": "A chronological list of the tallest land-supported man-made structures throughout history.",
+        "updated_at": "December 08, 2025 03:22 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/history_of_tallest_structures.json"
+      },
+      {
+        "title": "World’s Largest Airlines by Financial Metrics",
+        "subtitle": "Ranking of global airline groups based on revenue, net income, assets, and market capitalization.",
+        "updated_at": "December 11, 2025 09:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/largest_airlines_in_the_world.json"
+      },
+      {
+        "title": "Global Road Network Size by Country (2025)",
+        "subtitle": "Comparison of total road lengths by country, measured in kilometers, based on 2025 data",
+        "updated_at": "November 04, 2025 03:54 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/largest_road_networks_by_country.json"
+      },
+      {
+        "title": "World’s Longest Bridges",
+        "subtitle": "List of the longest bridges worldwide with their lengths, completion year, traffic type, and country",
+        "updated_at": "November 03, 2025 03:57 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/list_of_longest_bridges.json"
+      },
+      {
+        "title": "World’s Longest Tunnels (Operational)",
+        "subtitle": "List of the longest operational tunnels worldwide, including type, location, length and year opened.",
+        "updated_at": "December 11, 2025 11:00 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/list_of_longest_tunnels.json"
+      },
+      {
+        "title": "World’s Busiest Container Ports by Annual Throughput",
+        "subtitle": "Ranking of major global container ports based on container traffic (in thousand TEUs) handled per year.",
+        "updated_at": "October 14, 2025 02:59 AM UTC",
+        "url": "https://sharmadhiraj.github.io/free-json-datasets/transportation-infrastructure/worlds_busiest_container_ports.json"
+      }
+    ]
+  }
+]

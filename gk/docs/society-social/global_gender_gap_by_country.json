@@ -1,0 +1,1175 @@
+{
+  "title": "Global Gender Gap Index by Country – 2024",
+  "subtitle": "Overall Gender Equality Scores and Key Dimension Breakdown for 2024",
+  "updated_at": "October 08, 2025 09:36 AM UTC",
+  "data": [
+    {
+      "country": "Iceland",
+      "overall_score": "0.935",
+      "economics_score": "0.815",
+      "education_score": "0.992",
+      "health_score": "0.962",
+      "politics_score": "0.972"
+    },
+    {
+      "country": "Finland",
+      "overall_score": "0.875",
+      "economics_score": "0.796",
+      "education_score": "1.000",
+      "health_score": "0.970",
+      "politics_score": "0.734"
+    },
+    {
+      "country": "Norway",
+      "overall_score": "0.875",
+      "economics_score": "0.799",
+      "education_score": "0.993",
+      "health_score": "0.962",
+      "politics_score": "0.746"
+    },
+    {
+      "country": "New Zealand",
+      "overall_score": "0.835",
+      "economics_score": "0.741",
+      "education_score": "1.000",
+      "health_score": "0.966",
+      "politics_score": "0.631"
+    },
+    {
+      "country": "Sweden",
+      "overall_score": "0.816",
+      "economics_score": "0.794",
+      "education_score": "1.000",
+      "health_score": "0.963",
+      "politics_score": "0.506"
+    },
+    {
+      "country": "Nicaragua",
+      "overall_score": "0.811",
+      "economics_score": "0.642",
+      "education_score": "1.000",
+      "health_score": "0.978",
+      "politics_score": "0.626"
+    },
+    {
+      "country": "Germany",
+      "overall_score": "0.810",
+      "economics_score": "0.676",
+      "education_score": "0.987",
+      "health_score": "0.972",
+      "politics_score": "0.604"
+    },
+    {
+      "country": "Namibia",
+      "overall_score": "0.805",
+      "economics_score": "0.783",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.456"
+    },
+    {
+      "country": "Ireland",
+      "overall_score": "0.802",
+      "economics_score": "0.737",
+      "education_score": "1.000",
+      "health_score": "0.964",
+      "politics_score": "0.507"
+    },
+    {
+      "country": "Spain",
+      "overall_score": "0.797",
+      "economics_score": "0.732",
+      "education_score": "0.998",
+      "health_score": "0.966",
+      "politics_score": "0.494"
+    },
+    {
+      "country": "Belgium",
+      "overall_score": "0.793",
+      "economics_score": "0.718",
+      "education_score": "1.000",
+      "health_score": "0.968",
+      "politics_score": "0.486"
+    },
+    {
+      "country": "Lithuania",
+      "overall_score": "0.793",
+      "economics_score": "0.760",
+      "education_score": "0.995",
+      "health_score": "0.980",
+      "politics_score": "0.440"
+    },
+    {
+      "country": "Moldova",
+      "overall_score": "0.791",
+      "economics_score": "0.837",
+      "education_score": "0.999",
+      "health_score": "0.977",
+      "politics_score": "0.350"
+    },
+    {
+      "country": "United Kingdom",
+      "overall_score": "0.789",
+      "economics_score": "0.717",
+      "education_score": "1.000",
+      "health_score": "0.965",
+      "politics_score": "0.474"
+    },
+    {
+      "country": "Denmark",
+      "overall_score": "0.789",
+      "economics_score": "0.741",
+      "education_score": "0.998",
+      "health_score": "0.964",
+      "politics_score": "0.452"
+    },
+    {
+      "country": "Ecuador",
+      "overall_score": "0.788",
+      "economics_score": "0.707",
+      "education_score": "0.996",
+      "health_score": "0.968",
+      "politics_score": "0.482"
+    },
+    {
+      "country": "Portugal",
+      "overall_score": "0.787",
+      "economics_score": "0.754",
+      "education_score": "0.993",
+      "health_score": "0.973",
+      "politics_score": "0.429"
+    },
+    {
+      "country": "South Africa",
+      "overall_score": "0.785",
+      "economics_score": "0.653",
+      "education_score": "0.997",
+      "health_score": "0.979",
+      "politics_score": "0.513"
+    },
+    {
+      "country": "Switzerland",
+      "overall_score": "0.785",
+      "economics_score": "0.720",
+      "education_score": "0.992",
+      "health_score": "0.964",
+      "politics_score": "0.463"
+    },
+    {
+      "country": "Costa Rica",
+      "overall_score": "0.785",
+      "economics_score": "0.679",
+      "education_score": "1.000",
+      "health_score": "0.973",
+      "politics_score": "0.489"
+    },
+    {
+      "country": "France",
+      "overall_score": "0.781",
+      "economics_score": "0.726",
+      "education_score": "1.000",
+      "health_score": "0.970",
+      "politics_score": "0.428"
+    },
+    {
+      "country": "Chile",
+      "overall_score": "0.781",
+      "economics_score": "0.662",
+      "education_score": "0.990",
+      "health_score": "0.970",
+      "politics_score": "0.502"
+    },
+    {
+      "country": "Australia",
+      "overall_score": "0.780",
+      "economics_score": "0.736",
+      "education_score": "0.991",
+      "health_score": "0.968",
+      "politics_score": "0.424"
+    },
+    {
+      "country": "Albania",
+      "overall_score": "0.780",
+      "economics_score": "0.783",
+      "education_score": "0.958",
+      "health_score": "0.962",
+      "politics_score": "0.419"
+    },
+    {
+      "country": "Philippines",
+      "overall_score": "0.779",
+      "economics_score": "0.775",
+      "education_score": "1.000",
+      "health_score": "0.968",
+      "politics_score": "0.373"
+    },
+    {
+      "country": "Serbia",
+      "overall_score": "0.779",
+      "economics_score": "0.710",
+      "education_score": "0.999",
+      "health_score": "0.969",
+      "politics_score": "0.438"
+    },
+    {
+      "country": "Mozambique",
+      "overall_score": "0.776",
+      "economics_score": "0.690",
+      "education_score": "0.894",
+      "health_score": "0.980",
+      "politics_score": "0.542"
+    },
+    {
+      "country": "Netherlands",
+      "overall_score": "0.775",
+      "economics_score": "0.694",
+      "education_score": "1.000",
+      "health_score": "0.962",
+      "politics_score": "0.443"
+    },
+    {
+      "country": "Estonia",
+      "overall_score": "0.774",
+      "economics_score": "0.777",
+      "education_score": "1.000",
+      "health_score": "0.979",
+      "politics_score": "0.340"
+    },
+    {
+      "country": "Latvia",
+      "overall_score": "0.773",
+      "economics_score": "0.755",
+      "education_score": "1.000",
+      "health_score": "0.975",
+      "politics_score": "0.363"
+    },
+    {
+      "country": "Barbados",
+      "overall_score": "0.773",
+      "economics_score": "0.848",
+      "education_score": "0.995",
+      "health_score": "0.968",
+      "politics_score": "0.280"
+    },
+    {
+      "country": "Argentina",
+      "overall_score": "0.772",
+      "economics_score": "0.651",
+      "education_score": "1.000",
+      "health_score": "0.977",
+      "politics_score": "0.459"
+    },
+    {
+      "country": "Mexico",
+      "overall_score": "0.768",
+      "economics_score": "0.612",
+      "education_score": "0.994",
+      "health_score": "0.975",
+      "politics_score": "0.490"
+    },
+    {
+      "country": "Slovenia",
+      "overall_score": "0.766",
+      "economics_score": "0.762",
+      "education_score": "1.000",
+      "health_score": "0.973",
+      "politics_score": "0.327"
+    },
+    {
+      "country": "Guyana",
+      "overall_score": "0.765",
+      "economics_score": "0.728",
+      "education_score": "0.994",
+      "health_score": "0.980",
+      "politics_score": "0.359"
+    },
+    {
+      "country": "Canada",
+      "overall_score": "0.761",
+      "economics_score": "0.746",
+      "education_score": "0.996",
+      "health_score": "0.968",
+      "politics_score": "0.334"
+    },
+    {
+      "country": "Jamaica",
+      "overall_score": "0.758",
+      "economics_score": "0.809",
+      "education_score": "0.991",
+      "health_score": "0.967",
+      "politics_score": "0.263"
+    },
+    {
+      "country": "Rwanda",
+      "overall_score": "0.757",
+      "economics_score": "0.668",
+      "education_score": "0.962",
+      "health_score": "0.974",
+      "politics_score": "0.422"
+    },
+    {
+      "country": "Burundi",
+      "overall_score": "0.757",
+      "economics_score": "0.784",
+      "education_score": "0.943",
+      "health_score": "0.979",
+      "politics_score": "0.320"
+    },
+    {
+      "country": "Peru",
+      "overall_score": "0.755",
+      "economics_score": "0.686",
+      "education_score": "0.990",
+      "health_score": "0.964",
+      "politics_score": "0.380"
+    },
+    {
+      "country": "Cape Verde",
+      "overall_score": "0.755",
+      "economics_score": "0.746",
+      "education_score": "0.985",
+      "health_score": "0.980",
+      "politics_score": "0.310"
+    },
+    {
+      "country": "Liberia",
+      "overall_score": "0.754",
+      "economics_score": "0.874",
+      "education_score": "0.892",
+      "health_score": "0.962",
+      "politics_score": "0.287"
+    },
+    {
+      "country": "United States",
+      "overall_score": "0.747",
+      "economics_score": "0.765",
+      "education_score": "1.000",
+      "health_score": "0.970",
+      "politics_score": "0.251"
+    },
+    {
+      "country": "Bolivia",
+      "overall_score": "0.746",
+      "economics_score": "0.653",
+      "education_score": "0.985",
+      "health_score": "0.962",
+      "politics_score": "0.384"
+    },
+    {
+      "country": "Colombia",
+      "overall_score": "0.745",
+      "economics_score": "0.701",
+      "education_score": "1.000",
+      "health_score": "0.975",
+      "politics_score": "0.306"
+    },
+    {
+      "country": "Singapore",
+      "overall_score": "0.744",
+      "economics_score": "0.779",
+      "education_score": "0.994",
+      "health_score": "0.971",
+      "politics_score": "0.230"
+    },
+    {
+      "country": "Eswatini",
+      "overall_score": "0.744",
+      "economics_score": "0.840",
+      "education_score": "0.982",
+      "health_score": "0.980",
+      "politics_score": "0.174"
+    },
+    {
+      "country": "Luxembourg",
+      "overall_score": "0.744",
+      "economics_score": "0.735",
+      "education_score": "0.999",
+      "health_score": "0.965",
+      "politics_score": "0.278"
+    },
+    {
+      "country": "Austria",
+      "overall_score": "0.743",
+      "economics_score": "0.706",
+      "education_score": "0.995",
+      "health_score": "0.970",
+      "politics_score": "0.303"
+    },
+    {
+      "country": "Panama",
+      "overall_score": "0.742",
+      "economics_score": "0.723",
+      "education_score": "0.998",
+      "health_score": "0.973",
+      "politics_score": "0.274"
+    },
+    {
+      "country": "Poland",
+      "overall_score": "0.740",
+      "economics_score": "0.712",
+      "education_score": "0.996",
+      "health_score": "0.980",
+      "politics_score": "0.272"
+    },
+    {
+      "country": "Zimbabwe",
+      "overall_score": "0.740",
+      "economics_score": "0.786",
+      "education_score": "0.994",
+      "health_score": "0.980",
+      "politics_score": "0.199"
+    },
+    {
+      "country": "Suriname",
+      "overall_score": "0.739",
+      "economics_score": "0.742",
+      "education_score": "0.992",
+      "health_score": "0.979",
+      "politics_score": "0.245"
+    },
+    {
+      "country": "Tanzania",
+      "overall_score": "0.734",
+      "economics_score": "0.705",
+      "education_score": "0.963",
+      "health_score": "0.970",
+      "politics_score": "0.300"
+    },
+    {
+      "country": "Belarus",
+      "overall_score": "0.733",
+      "economics_score": "0.818",
+      "education_score": "0.967",
+      "health_score": "0.980",
+      "politics_score": "0.168"
+    },
+    {
+      "country": "Slovakia",
+      "overall_score": "0.731",
+      "economics_score": "0.720",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.224"
+    },
+    {
+      "country": "Botswana",
+      "overall_score": "0.730",
+      "economics_score": "0.854",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.088"
+    },
+    {
+      "country": "North Macedonia",
+      "overall_score": "0.727",
+      "economics_score": "0.635",
+      "education_score": "1.000",
+      "health_score": "0.960",
+      "politics_score": "0.313"
+    },
+    {
+      "country": "Honduras",
+      "overall_score": "0.726",
+      "economics_score": "0.654",
+      "education_score": "1.000",
+      "health_score": "0.964",
+      "politics_score": "0.288"
+    },
+    {
+      "country": "Bulgaria",
+      "overall_score": "0.723",
+      "economics_score": "0.748",
+      "education_score": "0.993",
+      "health_score": "0.979",
+      "politics_score": "0.174"
+    },
+    {
+      "country": "Croatia",
+      "overall_score": "0.723",
+      "economics_score": "0.623",
+      "education_score": "0.998",
+      "health_score": "0.978",
+      "politics_score": "0.293"
+    },
+    {
+      "country": "Malta",
+      "overall_score": "0.723",
+      "economics_score": "0.680",
+      "education_score": "1.000",
+      "health_score": "0.960",
+      "politics_score": "0.251"
+    },
+    {
+      "country": "Ukraine",
+      "overall_score": "0.722",
+      "economics_score": "0.737",
+      "education_score": "1.000",
+      "health_score": "0.977",
+      "politics_score": "0.175"
+    },
+    {
+      "country": "Armenia",
+      "overall_score": "0.721",
+      "economics_score": "0.707",
+      "education_score": "0.991",
+      "health_score": "0.958",
+      "politics_score": "0.227"
+    },
+    {
+      "country": "Thailand",
+      "overall_score": "0.720",
+      "economics_score": "0.772",
+      "education_score": "0.985",
+      "health_score": "0.977",
+      "politics_score": "0.147"
+    },
+    {
+      "country": "Madagascar",
+      "overall_score": "0.720",
+      "economics_score": "0.759",
+      "education_score": "0.993",
+      "health_score": "0.966",
+      "politics_score": "0.161"
+    },
+    {
+      "country": "Montenegro",
+      "overall_score": "0.718",
+      "economics_score": "0.724",
+      "education_score": "0.998",
+      "health_score": "0.969",
+      "politics_score": "0.182"
+    },
+    {
+      "country": "Romania",
+      "overall_score": "0.717",
+      "economics_score": "0.676",
+      "education_score": "0.999",
+      "health_score": "0.980",
+      "politics_score": "0.213"
+    },
+    {
+      "country": "Brazil",
+      "overall_score": "0.716",
+      "economics_score": "0.667",
+      "education_score": "0.996",
+      "health_score": "0.980",
+      "politics_score": "0.220"
+    },
+    {
+      "country": "Georgia",
+      "overall_score": "0.716",
+      "economics_score": "0.720",
+      "education_score": "0.991",
+      "health_score": "0.974",
+      "politics_score": "0.179"
+    },
+    {
+      "country": "Vietnam",
+      "overall_score": "0.715",
+      "economics_score": "0.751",
+      "education_score": "0.992",
+      "health_score": "0.947",
+      "politics_score": "0.168"
+    },
+    {
+      "country": "Uruguay",
+      "overall_score": "0.715",
+      "economics_score": "0.709",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.172"
+    },
+    {
+      "country": "Greece",
+      "overall_score": "0.714",
+      "economics_score": "0.680",
+      "education_score": "0.994",
+      "health_score": "0.967",
+      "politics_score": "0.214"
+    },
+    {
+      "country": "United Arab Emirates",
+      "overall_score": "0.713",
+      "economics_score": "0.553",
+      "education_score": "0.996",
+      "health_score": "0.963",
+      "politics_score": "0.341"
+    },
+    {
+      "country": "Kenya",
+      "overall_score": "0.712",
+      "economics_score": "0.789",
+      "education_score": "0.877",
+      "health_score": "0.975",
+      "politics_score": "0.209"
+    },
+    {
+      "country": "Kazakhstan",
+      "overall_score": "0.710",
+      "economics_score": "0.751",
+      "education_score": "0.999",
+      "health_score": "0.976",
+      "politics_score": "0.116"
+    },
+    {
+      "country": "Togo",
+      "overall_score": "0.710",
+      "economics_score": "0.796",
+      "education_score": "0.843",
+      "health_score": "0.979",
+      "politics_score": "0.222"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "overall_score": "0.710",
+      "economics_score": "0.620",
+      "education_score": "0.992",
+      "health_score": "0.970",
+      "politics_score": "0.257"
+    },
+    {
+      "country": "Ethiopia",
+      "overall_score": "0.709",
+      "economics_score": "0.587",
+      "education_score": "0.865",
+      "health_score": "0.971",
+      "politics_score": "0.412"
+    },
+    {
+      "country": "Sierra Leone",
+      "overall_score": "0.708",
+      "economics_score": "0.668",
+      "education_score": "0.943",
+      "health_score": "0.966",
+      "politics_score": "0.253"
+    },
+    {
+      "country": "Paraguay",
+      "overall_score": "0.707",
+      "economics_score": "0.680",
+      "education_score": "0.998",
+      "health_score": "0.975",
+      "politics_score": "0.173"
+    },
+    {
+      "country": "Uganda",
+      "overall_score": "0.706",
+      "economics_score": "0.645",
+      "education_score": "0.931",
+      "health_score": "0.980",
+      "politics_score": "0.266"
+    },
+    {
+      "country": "Dominican Republic",
+      "overall_score": "0.706",
+      "economics_score": "0.702",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.145"
+    },
+    {
+      "country": "Mongolia",
+      "overall_score": "0.705",
+      "economics_score": "0.736",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.104"
+    },
+    {
+      "country": "Cyprus",
+      "overall_score": "0.705",
+      "economics_score": "0.666",
+      "education_score": "0.993",
+      "health_score": "0.963",
+      "politics_score": "0.200"
+    },
+    {
+      "country": "Timor-Leste",
+      "overall_score": "0.704",
+      "economics_score": "0.631",
+      "education_score": "0.980",
+      "health_score": "0.965",
+      "politics_score": "0.238"
+    },
+    {
+      "country": "Italy",
+      "overall_score": "0.703",
+      "economics_score": "0.607",
+      "education_score": "0.996",
+      "health_score": "0.967",
+      "politics_score": "0.243"
+    },
+    {
+      "country": "Ghana",
+      "overall_score": "0.701",
+      "economics_score": "0.750",
+      "education_score": "0.972",
+      "health_score": "0.978",
+      "politics_score": "0.104"
+    },
+    {
+      "country": "Laos",
+      "overall_score": "0.700",
+      "economics_score": "0.714",
+      "education_score": "0.972",
+      "health_score": "0.975",
+      "politics_score": "0.140"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "overall_score": "0.700",
+      "economics_score": "0.695",
+      "education_score": "0.991",
+      "health_score": "0.980",
+      "politics_score": "0.133"
+    },
+    {
+      "country": "Israel",
+      "overall_score": "0.699",
+      "economics_score": "0.690",
+      "education_score": "1.000",
+      "health_score": "0.964",
+      "politics_score": "0.139"
+    },
+    {
+      "country": "Zambia",
+      "overall_score": "0.697",
+      "economics_score": "0.739",
+      "education_score": "0.979",
+      "health_score": "0.980",
+      "politics_score": "0.090"
+    },
+    {
+      "country": "Guatemala",
+      "overall_score": "0.697",
+      "economics_score": "0.562",
+      "education_score": "0.982",
+      "health_score": "0.980",
+      "politics_score": "0.263"
+    },
+    {
+      "country": "South Korea",
+      "overall_score": "0.696",
+      "economics_score": "0.605",
+      "education_score": "0.980",
+      "health_score": "0.976",
+      "politics_score": "0.223"
+    },
+    {
+      "country": "Belize",
+      "overall_score": "0.696",
+      "economics_score": "0.729",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.074"
+    },
+    {
+      "country": "El Salvador",
+      "overall_score": "0.695",
+      "economics_score": "0.592",
+      "education_score": "0.993",
+      "health_score": "0.980",
+      "politics_score": "0.215"
+    },
+    {
+      "country": "Cameroon",
+      "overall_score": "0.693",
+      "economics_score": "0.705",
+      "education_score": "0.894",
+      "health_score": "0.973",
+      "politics_score": "0.201"
+    },
+    {
+      "country": "Lesotho",
+      "overall_score": "0.691",
+      "economics_score": "0.648",
+      "education_score": "1.000",
+      "health_score": "0.980",
+      "politics_score": "0.136"
+    },
+    {
+      "country": "Bangladesh",
+      "overall_score": "0.689",
+      "economics_score": "0.311",
+      "education_score": "0.940",
+      "health_score": "0.962",
+      "politics_score": "0.543"
+    },
+    {
+      "country": "Indonesia",
+      "overall_score": "0.686",
+      "economics_score": "0.667",
+      "education_score": "0.971",
+      "health_score": "0.970",
+      "politics_score": "0.138"
+    },
+    {
+      "country": "Hungary",
+      "overall_score": "0.686",
+      "economics_score": "0.697",
+      "education_score": "0.999",
+      "health_score": "0.980",
+      "politics_score": "0.069"
+    },
+    {
+      "country": "Cambodia",
+      "overall_score": "0.685",
+      "economics_score": "0.717",
+      "education_score": "0.967",
+      "health_score": "0.978",
+      "politics_score": "0.080"
+    },
+    {
+      "country": "Azerbaijan",
+      "overall_score": "0.685",
+      "economics_score": "0.750",
+      "education_score": "0.985",
+      "health_score": "0.938",
+      "politics_score": "0.068"
+    },
+    {
+      "country": "China",
+      "overall_score": "0.684",
+      "economics_score": "0.737",
+      "education_score": "0.934",
+      "health_score": "0.940",
+      "politics_score": "0.123"
+    },
+    {
+      "country": "Czech Republic",
+      "overall_score": "0.684",
+      "economics_score": "0.632",
+      "education_score": "1.000",
+      "health_score": "0.978",
+      "politics_score": "0.126"
+    },
+    {
+      "country": "Brunei",
+      "overall_score": "0.684",
+      "economics_score": "0.715",
+      "education_score": "0.997",
+      "health_score": "0.954",
+      "politics_score": "0.069"
+    },
+    {
+      "country": "Mauritius",
+      "overall_score": "0.683",
+      "economics_score": "0.603",
+      "education_score": "0.993",
+      "health_score": "0.980",
+      "politics_score": "0.159"
+    },
+    {
+      "country": "Uzbekistan",
+      "overall_score": "0.681",
+      "economics_score": "0.598",
+      "education_score": "0.990",
+      "health_score": "0.959",
+      "politics_score": "0.176"
+    },
+    {
+      "country": "Senegal",
+      "overall_score": "0.679",
+      "economics_score": "0.473",
+      "education_score": "0.936",
+      "health_score": "0.967",
+      "politics_score": "0.341"
+    },
+    {
+      "country": "Gambia",
+      "overall_score": "0.679",
+      "economics_score": "0.718",
+      "education_score": "0.957",
+      "health_score": "0.968",
+      "politics_score": "0.073"
+    },
+    {
+      "country": "Tajikistan",
+      "overall_score": "0.673",
+      "economics_score": "0.619",
+      "education_score": "0.947",
+      "health_score": "0.970",
+      "politics_score": "0.156"
+    },
+    {
+      "country": "Vanuatu",
+      "overall_score": "0.673",
+      "economics_score": "0.719",
+      "education_score": "0.997",
+      "health_score": "0.971",
+      "politics_score": "0.006"
+    },
+    {
+      "country": "Angola",
+      "overall_score": "0.668",
+      "economics_score": "0.599",
+      "education_score": "0.743",
+      "health_score": "0.976",
+      "politics_score": "0.354"
+    },
+    {
+      "country": "Malaysia",
+      "overall_score": "0.668",
+      "economics_score": "0.634",
+      "education_score": "1.000",
+      "health_score": "0.969",
+      "politics_score": "0.068"
+    },
+    {
+      "country": "Tunisia",
+      "overall_score": "0.668",
+      "economics_score": "0.517",
+      "education_score": "0.970",
+      "health_score": "0.969",
+      "politics_score": "0.216"
+    },
+    {
+      "country": "Bahrain",
+      "overall_score": "0.666",
+      "economics_score": "0.573",
+      "education_score": "0.986",
+      "health_score": "0.959",
+      "politics_score": "0.146"
+    },
+    {
+      "country": "Nepal",
+      "overall_score": "0.664",
+      "economics_score": "0.475",
+      "education_score": "0.923",
+      "health_score": "0.969",
+      "politics_score": "0.288"
+    },
+    {
+      "country": "Japan",
+      "overall_score": "0.663",
+      "economics_score": "0.568",
+      "education_score": "0.993",
+      "health_score": "0.973",
+      "politics_score": "0.118"
+    },
+    {
+      "country": "Comoros",
+      "overall_score": "0.663",
+      "economics_score": "0.655",
+      "education_score": "0.945",
+      "health_score": "0.968",
+      "politics_score": "0.083"
+    },
+    {
+      "country": "Burkina Faso",
+      "overall_score": "0.661",
+      "economics_score": "0.674",
+      "education_score": "0.903",
+      "health_score": "0.978",
+      "politics_score": "0.090"
+    },
+    {
+      "country": "Ivory Coast",
+      "overall_score": "0.655",
+      "economics_score": "0.611",
+      "education_score": "0.924",
+      "health_score": "0.978",
+      "politics_score": "0.107"
+    },
+    {
+      "country": "Sri Lanka",
+      "overall_score": "0.653",
+      "economics_score": "0.544",
+      "education_score": "0.997",
+      "health_score": "0.980",
+      "politics_score": "0.090"
+    },
+    {
+      "country": "Jordan",
+      "overall_score": "0.652",
+      "economics_score": "0.536",
+      "education_score": "0.998",
+      "health_score": "0.957",
+      "politics_score": "0.117"
+    },
+    {
+      "country": "Bhutan",
+      "overall_score": "0.651",
+      "economics_score": "0.634",
+      "education_score": "0.963",
+      "health_score": "0.962",
+      "politics_score": "0.045"
+    },
+    {
+      "country": "Nigeria",
+      "overall_score": "0.650",
+      "economics_score": "0.726",
+      "education_score": "0.842",
+      "health_score": "0.967",
+      "politics_score": "0.066"
+    },
+    {
+      "country": "Saudi Arabia",
+      "overall_score": "0.647",
+      "economics_score": "0.551",
+      "education_score": "0.994",
+      "health_score": "0.964",
+      "politics_score": "0.077"
+    },
+    {
+      "country": "Turkey",
+      "overall_score": "0.645",
+      "economics_score": "0.507",
+      "education_score": "0.987",
+      "health_score": "0.966",
+      "politics_score": "0.118"
+    },
+    {
+      "country": "Fiji",
+      "overall_score": "0.642",
+      "economics_score": "0.589",
+      "education_score": "0.969",
+      "health_score": "0.965",
+      "politics_score": "0.045"
+    },
+    {
+      "country": "India",
+      "overall_score": "0.641",
+      "economics_score": "0.398",
+      "education_score": "",
+      "health_score": "0.951",
+      "politics_score": "0.251"
+    },
+    {
+      "country": "Qatar",
+      "overall_score": "0.640",
+      "economics_score": "0.556",
+      "education_score": "0.995",
+      "health_score": "0.947",
+      "politics_score": "0.061"
+    },
+    {
+      "country": "Kuwait",
+      "overall_score": "0.636",
+      "economics_score": "0.550",
+      "education_score": "0.997",
+      "health_score": "0.968",
+      "politics_score": "0.029"
+    },
+    {
+      "country": "Maldives",
+      "overall_score": "0.633",
+      "economics_score": "0.514",
+      "education_score": "1.000",
+      "health_score": "0.962",
+      "politics_score": "0.055"
+    },
+    {
+      "country": "Lebanon",
+      "overall_score": "0.632",
+      "economics_score": "0.558",
+      "education_score": "0.966",
+      "health_score": "0.971",
+      "politics_score": "0.033"
+    },
+    {
+      "country": "Egypt",
+      "overall_score": "0.629",
+      "economics_score": "0.406",
+      "education_score": "0.966",
+      "health_score": "0.968",
+      "politics_score": "0.176"
+    },
+    {
+      "country": "Benin",
+      "overall_score": "0.629",
+      "economics_score": "0.537",
+      "education_score": "0.817",
+      "health_score": "0.973",
+      "politics_score": "0.189"
+    },
+    {
+      "country": "Morocco",
+      "overall_score": "0.628",
+      "economics_score": "0.406",
+      "education_score": "0.955",
+      "health_score": "0.961",
+      "politics_score": "0.188"
+    },
+    {
+      "country": "Niger",
+      "overall_score": "0.628",
+      "economics_score": "0.664",
+      "education_score": "0.786",
+      "health_score": "0.964",
+      "politics_score": "0.096"
+    },
+    {
+      "country": "Oman",
+      "overall_score": "0.628",
+      "economics_score": "0.520",
+      "education_score": "0.989",
+      "health_score": "0.961",
+      "politics_score": "0.044"
+    },
+    {
+      "country": "Algeria",
+      "overall_score": "0.612",
+      "economics_score": "0.470",
+      "education_score": "0.951",
+      "health_score": "0.958",
+      "politics_score": "0.068"
+    },
+    {
+      "country": "DR Congo",
+      "overall_score": "0.609",
+      "economics_score": "0.669",
+      "education_score": "0.683",
+      "health_score": "0.976",
+      "politics_score": "0.109"
+    },
+    {
+      "country": "Mali",
+      "overall_score": "0.604",
+      "economics_score": "0.495",
+      "education_score": "0.776",
+      "health_score": "0.959",
+      "politics_score": "0.187"
+    },
+    {
+      "country": "Guinea",
+      "overall_score": "0.601",
+      "economics_score": "0.489",
+      "education_score": "0.732",
+      "health_score": "0.966",
+      "politics_score": "0.217"
+    },
+    {
+      "country": "Iran",
+      "overall_score": "0.579",
+      "economics_score": "0.343",
+      "education_score": "0.977",
+      "health_score": "0.964",
+      "politics_score": "0.031"
+    },
+    {
+      "country": "Chad",
+      "overall_score": "0.576",
+      "economics_score": "0.506",
+      "education_score": "0.667",
+      "health_score": "0.970",
+      "politics_score": "0.161"
+    },
+    {
+      "country": "Pakistan",
+      "overall_score": "0.570",
+      "economics_score": "0.360",
+      "education_score": "0.836",
+      "health_score": "0.961",
+      "politics_score": "0.122"
+    },
+    {
+      "country": "Sudan",
+      "overall_score": "0.568",
+      "economics_score": "0.337",
+      "education_score": "0.940",
+      "health_score": "0.965",
+      "politics_score": "0.030"
+    }
+  ]
+}
