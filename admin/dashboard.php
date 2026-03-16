@@ -1,12 +1,19 @@
 <?php
 require_once __DIR__ . '/_ui.php';
 
+$pdo = Db::pdo();
+if (!$pdo) {
+    admin_header('Database Error');
+    echo '<div class="card err">Database connection failed.</div>';
+    admin_footer();
+    exit;
+}
+
 $convModel = new Conversation();
 $trainModel = new TrainingData();
 $patternModel = new Patterns();
 $kbModel = new KnowledgeBase();
 $recentEntities = $kbModel->recentEntities(5);
-$pdo = Db::pdo();
 
 $convStats = $convModel->stats();
 $trainStats = $trainModel->stats();
@@ -16,9 +23,10 @@ $recent = $convModel->recent(10);
 
 $intentRows = [];
 if ($pdo) {
-    $intentRows = $pdo->query(
+    $stmt = $pdo->query(
         'SELECT intent, COUNT(*) as total FROM conversations GROUP BY intent ORDER BY total DESC LIMIT 10'
-    )->fetchAll();
+    );
+    if ($stmt) $intentRows = $stmt->fetchAll();
 }
 $maxIntentCount = 0;
 if (!empty($intentRows)) {
@@ -89,4 +97,5 @@ admin_header('Dashboard');
             </tr>
         <?php endforeach; ?>
     </table>
+</div>
 <?php admin_footer(); ?>

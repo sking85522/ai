@@ -1,8 +1,10 @@
 <?php
 return [
-    'host' => '127.0.0.1',
+'driver' => 'mysql',
+'host' => '0.0.0.0',
     'user' => 'root',
-    'pass' => '',
+    'pass' => 'root',
     'db'   => 'ai_db',
+    'port'   => 3306,
     'charset' => 'utf8mb4',
 ];

@@ -5,6 +5,7 @@
 
 SET NAMES utf8mb4;
 SET time_zone = '+00:00';
+USE ai_db;
 
 CREATE TABLE IF NOT EXISTS training_data (
     id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,

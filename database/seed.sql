@@ -1,4 +1,5 @@
-SET NAMES utf8mb4;
+
+USE ai_db;
 
 INSERT INTO training_data (input_text, expected_intent, language_tag, confidence_hint, source, created_at, updated_at) VALUES
 ('hello', 'greeting', 'en', 0.90, 'sql_seed', NOW(), NOW()),

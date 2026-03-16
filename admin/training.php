@@ -174,6 +174,56 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             }
         }
     }
+
+    if ($action === 'ingest_from_path') {
+        $path = trim((string) ($_POST['path'] ?? ''));
+        $baseDir = dirname(__DIR__);
+        $fullPath = realpath($baseDir . '/' . $path);
+
+        if (!$fullPath || strpos($fullPath, $baseDir) !== 0) {
+            $msg = 'अमान्य या निषिद्ध पथ।';
+            $msgClass = 'err';
+        } elseif (!file_exists($fullPath)) {
+            $msg = 'पथ नहीं मिला: ' . htmlspecialchars($path);
+            $msgClass = 'err';
+        } else {
+            $totalCount = 0;
+            $fileCount = 0;
+            if (is_file($fullPath)) {
+                $res = $ingestor->ingestFile($fullPath, 'admin_path_ingest');
+                if ($res['ok']) {
+                    $totalCount += $res['count'];
+                    $fileCount++;
+                }
+            } elseif (is_dir($fullPath)) {
+                $iterator = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($fullPath));
+                foreach ($iterator as $file) {
+                    if ($file->isDir()) continue;
+                    $res = $ingestor->ingestFile($file->getPathname(), 'admin_path_ingest');
+                    if ($res['ok']) {
+                        $totalCount += $res['count'];
+                        $fileCount++;
+                    }
+                }
+            }
+            $msg = "पथ से $fileCount फाइलों को प्रोसेस किया गया और कुल $totalCount पंक्तियाँ शामिल की गईं: " . htmlspecialchars($path);
+            $msgClass = 'ok';
+        }
+    }
+
+    if ($action === 'build_vocabulary') {
+        $vocabPath = dirname(__DIR__) . '/storage/training/vocabulary.json';
+        $words = [];
+        $stmt = $pdo->query("SELECT input_text FROM training_data LIMIT 20000");
+        while ($row = $stmt->fetch(PDO::FETCH_ASSOC)) {
+            $clean = preg_replace('/[^\p{L}\p{N}\s]/u', ' ', mb_strtolower($row['input_text'], 'UTF-8')) ?? '';
+            $tokens = preg_split('/\s+/u', trim($clean)) ?: [];
+            foreach ($tokens as $token) { if (mb_strlen($token) >= 3 && mb_strlen($token) <= 20) { $words[$token] = true; } }
+        }
+        file_put_contents($vocabPath, json_encode(array_keys($words)));
+        $msg = "शब्दावली " . count($words) . " अद्वितीय शब्दों के साथ बनाई गई और vocabulary.json में सहेजी गई।";
+        $msgClass = 'ok';
+    }
 }
 
 $recentTraining = $train->all(20);
@@ -279,11 +329,34 @@ admin_header('Training');
 <div class="card">
     <h3>JSON Pack Builder + Importer</h3>
     <p class="muted">Source: <code>downloadaitrainfile/</code> -> Output: <code>storage/training/json_pack/</code></p>
-    <form method="post"
-    i   <button type="submit">Build & Import Pack</button>
+    <form method="post">
+        <input type="hidden" name="action" value="build_and_import_json_pack">
+        <button type="submit">Build & Import Pack</button>
     </form>
 </div>
 
+<div class="card">
+    <h3>न्यूरल सिस्टम डेवलपमेंट</h3>
+    <p class="muted">मौजूदा कॉर्पस और ट्रेनिंग डेटा से एक शब्दावली बनाकर कोर न्यूरल सिस्टम में सुधार करें। यह उपयोगकर्ता इनपुट को बेहतर ढंग से समझने में मदद करता है।</p>
+    <form method="post">
+        <input type="hidden" name="action" value="build_vocabulary">
+        <button type="submit">शब्दावली बनाएँ</button>
+    </form>
+</div>
+
+<div class="card">
+    <h3>पाथ से एडवांस्ड कोर ट्रेनिंग</h3>
+    <p class="muted">किसी फ़ोल्डर के भीतर किसी फ़ाइल या सभी समर्थित फ़ाइलों को सीधे शामिल करें। प्रोजेक्ट-रिलेटिव पाथ का उपयोग करें जैसे <code>storage/training/generated_corpus_100mb.txt</code>। असमर्थित फ़ाइलें (उदा., .bin) छोड़ दी जाएंगी।</p>
+    <form method="post">
+        <input type="hidden" name="action" value="ingest_from_path">
+        <div class="row">
+            <input type="text" name="path" placeholder="उदा., storage/training/corpus_folder" required style="flex-grow:1;">
+            <button type="submit">पाथ से ट्रेनिंग करें</button>
+        </div>
+    </form>
+</div>
+
+<div class="card">
     <h3>Recent Training Data</h3>
     <table>
         <tr><th>ID</th><th>Input Text</th><th>Intent</th><th>Language</th><th>Source</th><th>Time</th></tr>

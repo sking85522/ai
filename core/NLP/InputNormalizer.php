@@ -102,14 +102,24 @@ class InputNormalizer
     /** @return array<string, true> */
     private function buildLexicon(): array
     {
-        $words = [
+        $vocabPath = dirname(dirname(__DIR__)) . '/storage/training/vocabulary.json';
+        if (is_readable($vocabPath)) {
+            $json = file_get_contents($vocabPath);
+            $words = json_decode($json, true);
+            if (is_array($words)) {
+                return array_fill_keys($words, true);
+            }
+        }
+
+        // Fallback to a minimal hardcoded list if file doesn't exist or is invalid
+        $fallbackWords = [
             'capital', 'india', 'bharat', 'pakistan', 'japan', 'nepal', 'bangladesh', 'china',
             'usa', 'table', 'quiz', 'physics', 'chemistry', 'mathematics', 'math', 'trigonometry',
             'geometry', 'vector', 'algebra', 'calculus', 'rajdhani', 'uttar', 'pradesh', 'google',
             'name', 'learn', 'about', 'what', 'where', 'who', 'how', 'question', 'answer',
         ];
         $out = [];
-        foreach ($words as $word) {
+        foreach ($fallbackWords as $word) {
             $out[$word] = true;
         }
         return $out;

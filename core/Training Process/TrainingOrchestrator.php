@@ -5,10 +5,10 @@ class TrainingOrchestrator
     private SimpleTextClassifier $classifier;
     private MetricsSuite $metrics;
 
-    public function __construct()
+    public function __construct(?DataPipeline $pipeline = null, ?SimpleTextClassifier $classifier = null)
     {
-        $this->pipeline = new DataPipeline();
-        $this->classifier = new SimpleTextClassifier();
+        $this->pipeline = $pipeline ?? new DataPipeline();
+        $this->classifier = $classifier ?? new SimpleTextClassifier();
         $this->metrics = new MetricsSuite();
     }
 
@@ -41,6 +41,65 @@ class TrainingOrchestrator
             'train_size' => count($split['train']),
             'test_size' => count($split['test']),
             'metrics' => $metrics,
+        ];
+    }
+
+    /**
+     * Incremental training using shard files located in a directory.
+     * Each shard is processed line-by-line and fed to the classifier in batches.
+     * Returns summary stats.
+     *
+     * @param string $shardDir
+     * @param int $batchSize number of lines per incremental update
+     * @param int|null $maxShards limit number of shards to process (null = all)
+     * @return array
+     */
+    public function trainFromShardFiles(string $shardDir, int $batchSize = 1000, ?int $maxShards = null): array
+    {
+        $files = glob(rtrim($shardDir, DIRECTORY_SEPARATOR) . DIRECTORY_SEPARATOR . '*');
+        sort($files);
+        if ($maxShards !== null) {
+            $files = array_slice($files, 0, $maxShards);
+        }
+
+        $totalLines = 0;
+        foreach ($files as $file) {
+            if (!is_file($file) || !is_readable($file)) {
+                continue;
+            }
+            $handle = fopen($file, 'r');
+            if (!$handle) {
+                continue;
+            }
+            $batch = [];
+            while (!feof($handle)) {
+                $line = fgets($handle);
+                if ($line === false) {
+                    break;
+                }
+                $line = trim($line);
+                if ($line === '') {
+                    continue;
+                }
+                $batch[] = ['text' => $line, 'label' => null];
+                $totalLines++;
+
+                if (count($batch) >= $batchSize) {
+                    $rows = $this->pipeline->buildDataset($batch);
+                    $this->classifier->train($rows);
+                    $batch = [];
+                }
+            }
+            if ($batch) {
+                $rows = $this->pipeline->buildDataset($batch);
+                $this->classifier->train($rows);
+            }
+            fclose($handle);
+        }
+
+        return [
+            'shards_processed' => count($files),
+            'lines_trained' => $totalLines,
         ];
     }
 }
