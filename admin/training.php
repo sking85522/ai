@@ -279,10 +279,14 @@ admin_header('Training');
 <div class="card">
     <h3>JSON Pack Builder + Importer</h3>
     <p class="muted">Source: <code>downloadaitrainfile/</code> -> Output: <code>storage/training/json_pack/</code></p>
-    <form method="post""j_yiotyame="action" value="build_and_import_json_pack">Build & Import Pack</button>
+    <form method="post"
+    i   <button type="submit">Build & Import Pack</button>
     </form>
 </div>
- cPth><th>Language</th><th>Source</th><th>Time</th></tr>
+
+    <h3>Recent Training Data</h3>
+    <table>
+        <tr><th>ID</th><th>Input Text</th><th>Intent</th><th>Language</th><th>Source</th><th>Time</th></tr>
         <?php foreach ($recentTraining as $row): ?>
             <tr>
                 <td><?php echo (int) $row['id']; ?></td>
