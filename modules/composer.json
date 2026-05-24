@@ -1,0 +1,63 @@
+{
+    "name": "sciphp/sciphp-framework",
+    "description": "SciPHP — A complete AI, ML, Data Science & Scientific Computing framework for PHP. NumPy + SciPy + Scikit-learn + NLTK + OpenCV + Matplotlib equivalent in pure PHP.",
+    "version": "2.0.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tech Elevate X",
+            "email": "dev@techelevatex.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-gd": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*"
+    },
+    "suggest": {
+        "ext-pcntl": "Required for ParallelPHP process forking"
+    },
+    "autoload": {
+        "psr-4": {
+            "NumPHP\\": "numphp/src/",
+            "SciPHP\\": "sciphp/src/",
+            "MLPHP\\": "mlphp/src/",
+            "NeuralPHP\\": "neuralphp/src/",
+            "NLPHP\\": "nlphp/src/",
+            "VisionPHP\\": "visionphp/src/",
+            "SpeechPHP\\": "speechphp/src/",
+            "PandaPHP\\": "pandaphp/src/",
+            "PlotPHP\\": "plotphp/src/",
+            "ParallelPHP\\": "parallelphp/src/",
+            "DatasetPHP\\": "datasetphp/src/",
+            "DictionaryPHP\\": "dictionaryphp/src/",
+            "LanguagePHP\\": "languagephp/src/",
+            "ModelIO\\": "modelio/src/",
+            "SearchPHP\\": "search/src/"
+        },
+        "files": [
+            "numphp/NumPHP.php",
+            "sciphp/SciPHP.php",
+            "mlphp/MLPHP.php",
+            "neuralphp/NeuralPHP.php",
+            "nlphp/NLPHP.php",
+            "visionphp/VisionPHP.php",
+            "speechphp/SpeechPHP.php",
+            "pandaphp/PandaPHP.php",
+            "plotphp/PlotPHP.php",
+            "parallelphp/ParallelPHP.php",
+            "datasetphp/DatasetPHP.php",
+            "dictionaryphp/DictionaryPHP.php",
+            "languagephp/LanguagePHP.php",
+            "modelio/ModelIO.php",
+            "search/SearchPHP.php"
+        ]
+    },
+    "keywords": [
+        "machine-learning", "numpy", "scipy", "sklearn", "nlp", "computer-vision",
+        "neural-network", "deep-learning", "data-science", "php-ml", "ai",
+        "image-processing", "speech-recognition", "search-engine", "pandas"
+    ]
+}
