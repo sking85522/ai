@@ -1,4 +1,24 @@
 <?php
+namespace Core\ML;
+
+class CodeComposer {
+    /**
+     * Generates PHP/JS boilerplate code based on patterns.
+     */
+    public function compose(string $type, array $params): string {
+        if ($type === 'php_class') {
+            $name = $params['name'] ?? 'GeneratedClass';
+            return "<?php\nclass {$name} {\n    public function __construct() {\n        // Code here\n    }\n}";
+        }
+        
+        if ($type === 'js_component') {
+            $name = $params['name'] ?? 'Component';
+            return "function {$name}() {\n    console.log('Component Loaded');\n}";
+        }
+
+        return "// Template not found";
+    }
+}
 class CodeComposer
 {
     public function compose(string $input, string $languageMode): array
@@ -115,153 +135,7 @@ class CodeComposer
         return false;
     }
 
-    private function landingPageSnippet(): string
-    {
-        return <<<MD
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Product Landing</title>
-  <style>
-    :root { --bg:#0f172a; --accent:#22c55e; --text:#e2e8f0; }
-    body { margin:0; font-family:Segoe UI,sans-serif; background:linear-gradient(140deg,#0f172a,#1e293b); color:var(--text); }
-    .hero { max-width:900px; margin:0 auto; padding:5rem 1rem; text-align:center; }
-    .btn { display:inline-block; background:var(--accent); color:#052e16; padding:.8rem 1.2rem; border-radius:8px; text-decoration:none; font-weight:700; }
-    .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:1rem; margin-top:2rem; }
-    .card { background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.12); border-radius:12px; padding:1rem; }
-  </style>
-</head>
-<body>
-  <section class="hero">
-    <h1>Ship Faster With Smart Automation</h1>
-    <p>Design, build, and deploy your product workflow in minutes.</p>
-    <a class="btn" href="#start">Get Started</a>
-    <div class="cards">
-      <div class="card">Realtime Analytics</div>
-      <div class="card">Secure API Layer</div>
-      <div class="card">Auto Scaling</div>
-    </div>
-  </section>
-</body>
-</html>
-```
-MD;
-    }
-
-    private function htmlStarterSnippet(): string
-    {
-        return <<<MD
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>My App</title>
-</head>
-<body>
-  <h1>Hello, World</h1>
-  <p>Start building your page here.</p>
-</body>
-</html>
-```
-MD;
-    }
-
-    private function phpStarterSnippet(): string
-    {
-        return <<<'MD'
-```php
-<?php
-function greetUser(string $name): string
-{
-    $name = trim($name);
-    if ($name === '') {
-        return 'Hello, Guest!';
-    }
-    return 'Hello, ' . ucfirst($name) . '!';
-}
-```
-MD;
-    }
-
-    private function phpLoginSnippet(): string
-    {
-        return <<<'MD'
-```php
-<?php
-// login.php
-require_once 'db.php';
-session_start();
-
-if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $email = trim($_POST['email'] ?? '');
-    $password = $_POST['password'] ?? '';
-
-    $stmt = $pdo->prepare('SELECT id, name, password_hash FROM users WHERE email = :email LIMIT 1');
-    $stmt->execute([':email' => $email]);
-    $user = $stmt->fetch(PDO::FETCH_ASSOC);
-
-    if ($user && password_verify($password, $user['password_hash'])) {
-        $_SESSION['user_id'] = (int)$user['id'];
-        $_SESSION['user_name'] = $user['name'];
-        header('Location: dashboard.php');
-        exit;
-    }
-    $error = 'Invalid credentials';
-}
-```
-MD;
-    }
-
-    private function sqlSnippet(): string
-    {
-        return <<<MD
-```sql
-CREATE TABLE users (
-  id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(120) NOT NULL,
-  email VARCHAR(190) NOT NULL UNIQUE,
-  password_hash VARCHAR(255) NOT NULL,
-  role ENUM('admin','user') NOT NULL DEFAULT 'user',
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
-);
-```
-MD;
-    }
-
-    private function jsSnippet(): string
-    {
-        return <<<MD
-```javascript
-function groupBy(items, keyFn) {
-  return items.reduce((acc, item) => {
-    const key = keyFn(item);
-    if (!acc[key]) acc[key] = [];
-    acc[key].push(item);
-    return acc;
-  }, {});
-}
-```
-MD;
-    }
-
-    private function javaSnippet(): string
-    {
-        return <<<MD
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, Java");
-    }
-}
-```
-MD;
-    }
+    
 
     private function engineeringPlan(string $languageMode): string
     {
