@@ -1,0 +1,143 @@
+{
+    "neural_memory": [],
+    "neural_knowledge": [
+        {
+            "category": "system_models",
+            "sub_category": "personal_brain",
+            "k_key": "naive_bayes",
+            "k_value": "TzozMToiTkxQSFBcQ2xhc3NpZmljYXRpb25cTmFpdmVCYXllcyI6NDp7czo0NToiAE5MUEhQXENsYXNzaWZpY2F0aW9uXE5haXZlQmF5ZXMAY2xhc3NfY291bnRzIjthOjI4OntzOjk6InRlc3RfZmlsZSI7aTo3O3M6ODoicmVzZWFyY2giO2k6NjtzOjU6ImRlYnVnIjtpOjY7czoxMDoiYXVkaXRfZmlsZSI7aTo3O3M6MTU6ImdlbmVyYXRlX3JlYWRtZSI7aTo1O3M6MTU6ImRvY3VtZW50X2ZvbGRlciI7aTo0O3M6MTI6InBsYW5fcHJvamVjdCI7aTo1O3M6ODoic2hvd19tYXAiO2k6NTtzOjEyOiJhdWRpdF9zeXN0ZW0iO2k6NDtzOjEzOiJvcHRpbWl6ZV9maWxlIjtpOjY7czoxMDoicGF0Y2hfZmlsZSI7aTo1O3M6MTQ6ImRlcGxveV9wcm9qZWN0IjtpOjU7czo5OiJlbmFibGVfYWkiO2k6NDtzOjY6ImV2b2x2ZSI7aTo1O3M6ODoiZ2l0X2luaXQiO2k6NDtzOjY6ImNvbW1pdCI7aTo0O3M6MTE6InNwYXduX2FnZW50IjtpOjQ7czoxMDoic2hvd19zd2FybSI7aTo0O3M6MTE6ImNvbGxhYm9yYXRlIjtpOjQ7czoxMzoiYW5hbHl6ZV9pbWFnZSI7aTo0O3M6NzoiaW1hZ2luZSI7aTo1O3M6MTE6InNpbmd1bGFyaXR5IjtpOjQ7czo1OiJ0cmFpbiI7aTo0O3M6OToidHJhbnNsYXRlIjtpOjQ7czo3OiJjb252ZXJ0IjtpOjQ7czoxMjoiZGF0YV9hbmFseXplIjtpOjQ7czoxNjoiZ2VuZXJhdGVfdGhvdWdodCI7aTo4O3M6MTM6ImdlbmVyYXRlX2NvZGUiO2k6Njt9czozODoiAE5MUEhQXENsYXNzaWZpY2F0aW9uXE5haXZlQmF5ZXMAdm9jYWIiO2E6MTQzOntzOjQ6InRlc3QiO2I6MTtzOjQ6ImZpbGUiO2I6MTtzOjY6InBsZWFzZSI7YjoxO3M6MzoicnVuIjtiOjE7czo3OiJleGVjdXRlIjtiOjE7czo0OiJ1bml0IjtiOjE7czo1OiJjaGVjayI7YjoxO3M6NToid29ya3MiO2I6MTtzOjc6InRlc3RpbmciO2I6MTtzOjg6InJlc2VhcmNoIjtiOjE7czo0OiJ0ZWxsIjtiOjE7czo0OiJmaW5kIjtiOjE7czo1OiJ0b3BpYyI7YjoxO3M6Njoic2VhcmNoIjtiOjE7czo2OiJnb29nbGUiO2I6MTtzOjU6ImRlYnVnIjtiOjE7czo1OiJlcnJvciI7YjoxO3M6MzoiZml4IjtiOjE7czozOiJidWciO2I6MTtzOjc6ImFuYWx5emUiO2I6MTtzOjc6Im1lc3NhZ2UiO2I6MTtzOjU6InNvbHZlIjtiOjE7czo3OiJmYWlsaW5nIjtiOjE7czo1OiJhdWRpdCI7YjoxO3M6NjoicmV2aWV3IjtiOjE7czo0OiJjb2RlIjtiOjE7czo3OiJxdWFsaXR5IjtiOjE7czo3OiJpbnNwZWN0IjtiOjE7czo0OiJyZWFkIjtiOjE7czo4OiJnZW5lcmF0ZSI7YjoxO3M6NjoicmVhZG1lIjtiOjE7czo2OiJjcmVhdGUiO2I6MTtzOjEzOiJkb2N1bWVudGF0aW9uIjtiOjE7czo4OiJkb2N1bWVudCI7YjoxO3M6NzoicHJvamVjdCI7YjoxO3M6NDoibWFrZSI7YjoxO3M6NjoiZm9sZGVyIjtiOjE7czo5OiJkaXJlY3RvcnkiO2I6MTtzOjQ6ImRvY3MiO2I6MTtzOjQ6InBsYW4iO2I6MTtzOjc6Im91dGxpbmUiO2I6MTtzOjU6InN0ZXBzIjtiOjE7czo0OiJzaG93IjtiOjE7czozOiJtYXAiO2I6MTtzOjk6InN0cnVjdHVyZSI7YjoxO3M6OToidmlzdWFsaXplIjtiOjE7czo0OiJ0cmVlIjtiOjE7czo3OiJkaXNwbGF5IjtiOjE7czoxMjoiYXJjaGl0ZWN0dXJlIjtiOjE7czo2OiJzeXN0ZW0iO2I6MTtzOjExOiJjb25uZWN0aW9ucyI7YjoxO3M6ODoib3B0aW1pemUiO2I6MTtzOjY6ImJldHRlciI7YjoxO3M6ODoicmVmYWN0b3IiO2I6MTtzOjc6ImltcHJvdmUiO2I6MTtzOjU6ImNsZWFuIjtiOjE7czo1OiJwYXRjaCI7YjoxO3M6NToiYXBwbHkiO2I6MTtzOjQ6ImF1dG8iO2I6MTtzOjc6ImNvcnJlY3QiO2I6MTtzOjY6ImRlcGxveSI7YjoxO3M6NzoicmVsZWFzZSI7YjoxO3M6MTE6ImFwcGxpY2F0aW9uIjtiOjE7czo0OiJwdXNoIjtiOjE7czo0OiJwcm9kIjtiOjE7czo0OiJzaGlwIjtiOjE7czo2OiJlbmFibGUiO2I6MTtzOjI6ImFpIjtiOjE7czo2OiJicmlkZ2UiO2I6MTtzOjM6ImFwaSI7YjoxO3M6OToiaW50ZWdyYXRlIjtiOjE7czozOiJhZGQiO2I6MTtzOjY6ImV2b2x2ZSI7YjoxO3M6NzoidXBncmFkZSI7YjoxO3M6NjoiYmVjb21lIjtiOjE7czo3OiJzbWFydGVyIjtiOjE7czo0OiJzZWxmIjtiOjE7czozOiJnaXQiO2I6MTtzOjQ6ImluaXQiO2I6MTtzOjEwOiJpbml0aWFsaXplIjtiOjE7czoxMDoicmVwb3NpdG9yeSI7YjoxO3M6NToic3RhcnQiO2I6MTtzOjQ6InJlcG8iO2I6MTtzOjY6ImNvbW1pdCI7YjoxO3M6NzoiY2hhbmdlcyI7YjoxO3M6NDoic2F2ZSI7YjoxO3M6NDoid29yayI7YjoxO3M6NToic3Bhd24iO2I6MTtzOjU6ImFnZW50IjtiOjE7czozOiJuZXciO2I6MTtzOjk6ImFzc2lzdGFudCI7YjoxO3M6NToic3dhcm0iO2I6MTtzOjQ6Imxpc3QiO2I6MTtzOjY6ImFnZW50cyI7YjoxO3M6Nzoid29ya2luZyI7YjoxO3M6MTE6ImNvbGxhYm9yYXRlIjtiOjE7czo4OiJ0b2dldGhlciI7YjoxO3M6NDoidGVhbSI7YjoxO3M6NToiaW1hZ2UiO2I6MTtzOjQ6Imxvb2siO2I6MTtzOjc6InBpY3R1cmUiO2I6MTtzOjY6InZpc2lvbiI7YjoxO3M6NzoiaW1hZ2luZSI7YjoxO3M6OToic29tZXRoaW5nIjtiOjE7czo0OiJnaXZlIjtiOjE7czo0OiJpZGVhIjtiOjE7czo4OiJjcmVhdGl2ZSI7YjoxO3M6NToidGhpbmsiO2I6MTtzOjU6InN0b3J5IjtiOjE7czo1OiJyZWFjaCI7YjoxO3M6MTE6InNpbmd1bGFyaXR5IjtiOjE7czo2OiJyZWFsbHkiO2I6MTtzOjQ6InRydWUiO2I6MTtzOjc6InB1cnBvc2UiO2I6MTtzOjU6InRyYWluIjtiOjE7czo1OiJsaW5lcyI7YjoxO3M6ODoidHJhaW5pbmciO2I6MTtzOjU6ImxlYXJuIjtiOjE7czo3OiJtYXNzaXZlIjtiOjE7czo0OiJkYXRhIjtiOjE7czo1OiJtb2RlbCI7YjoxO3M6OToidHJhbnNsYXRlIjtiOjE7czo3OiJjb252ZXJ0IjtiOjE7czo4OiJsYW5ndWFnZSI7YjoxO3M6NDoidGV4dCI7YjoxO3M6NjoiY2hhbmdlIjtiOjE7czo2OiJmb3JtYXQiO2I6MTtzOjk6InRyYW5zZm9ybSI7YjoxO3M6NjoiZXhwb3J0IjtiOjE7czo4OiJkZXNjcmliZSI7YjoxO3M6MzoiY3N2IjtiOjE7czo3OiJkYXRhc2V0IjtiOjE7czo4OiJhbmFseXNpcyI7YjoxO3M6NDoiam9rZSI7YjoxO3M6NDoidGFsayI7YjoxO3M6NToid3JpdGUiO2I6MTtzOjM6InNheSI7YjoxO3M6NToiaGVsbG8iO2I6MTtzOjI6ImhpIjtiOjE7czo4OiJmdW5jdGlvbiI7YjoxO3M6MzoicGhwIjtiOjE7czo2OiJzY3JpcHQiO2I6MTtzOjU6ImNsYXNzIjtiOjE7fXM6NDQ6IgBOTFBIUFxDbGFzc2lmaWNhdGlvblxOYWl2ZUJheWVzAHdvcmRfY291bnRzIjthOjI4OntzOjk6InRlc3RfZmlsZSI7YTo5OntzOjQ6InRlc3QiO2k6NDtzOjQ6ImZpbGUiO2k6NTtzOjY6InBsZWFzZSI7aToxO3M6MzoicnVuIjtpOjI7czo3OiJleGVjdXRlIjtpOjE7czo0OiJ1bml0IjtpOjE7czo1OiJjaGVjayI7aToxO3M6NToid29ya3MiO2k6MTtzOjc6InRlc3RpbmciO2k6MTt9czo4OiJyZXNlYXJjaCI7YTo2OntzOjg6InJlc2VhcmNoIjtpOjI7czo0OiJ0ZWxsIjtpOjE7czo0OiJmaW5kIjtpOjE7czo1OiJ0b3BpYyI7aToxO3M6Njoic2VhcmNoIjtpOjE7czo2OiJnb29nbGUiO2k6MTt9czo1OiJkZWJ1ZyI7YTo4OntzOjU6ImRlYnVnIjtpOjI7czo1OiJlcnJvciI7aTozO3M6MzoiZml4IjtpOjE7czozOiJidWciO2k6MTtzOjc6ImFuYWx5emUiO2k6MTtzOjc6Im1lc3NhZ2UiO2k6MTtzOjU6InNvbHZlIjtpOjE7czo3OiJmYWlsaW5nIjtpOjE7fXM6MTA6ImF1ZGl0X2ZpbGUiO2E6ODp7czo1OiJhdWRpdCI7aTozO3M6NDoiZmlsZSI7aTo0O3M6NjoicmV2aWV3IjtpOjE7czo0OiJjb2RlIjtpOjI7czo1OiJjaGVjayI7aToyO3M6NzoicXVhbGl0eSI7aToxO3M6NzoiaW5zcGVjdCI7aToxO3M6NDoicmVhZCI7aToxO31zOjE1OiJnZW5lcmF0ZV9yZWFkbWUiO2E6ODp7czo4OiJnZW5lcmF0ZSI7aToyO3M6NjoicmVhZG1lIjtpOjM7czo2OiJjcmVhdGUiO2k6MTtzOjEzOiJkb2N1bWVudGF0aW9uIjtpOjE7czo4OiJkb2N1bWVudCI7aToxO3M6NzoicHJvamVjdCI7aToxO3M6NDoiZmlsZSI7aToxO3M6NDoibWFrZSI7aToxO31zOjE1OiJkb2N1bWVudF9mb2xkZXIiO2E6Njp7czo4OiJkb2N1bWVudCI7aToyO3M6NjoiZm9sZGVyIjtpOjM7czo5OiJkaXJlY3RvcnkiO2k6MTtzOjY6ImNyZWF0ZSI7aToxO3M6NDoiZG9jcyI7aToyO3M6ODoiZ2VuZXJhdGUiO2k6MTt9czoxMjoicGxhbl9wcm9qZWN0IjthOjY6e3M6NDoicGxhbiI7aTo0O3M6NzoicHJvamVjdCI7aTozO3M6NjoiY3JlYXRlIjtpOjE7czo3OiJvdXRsaW5lIjtpOjE7czo1OiJzdGVwcyI7aToxO3M6NDoibWFrZSI7aToxO31zOjg6InNob3dfbWFwIjthOjg6e3M6NDoic2hvdyI7aTozO3M6MzoibWFwIjtpOjI7czo3OiJwcm9qZWN0IjtpOjE7czo5OiJzdHJ1Y3R1cmUiO2k6MTtzOjk6InZpc3VhbGl6ZSI7aToxO3M6NDoidHJlZSI7aToyO3M6NzoiZGlzcGxheSI7aToxO3M6MTI6ImFyY2hpdGVjdHVyZSI7aToxO31zOjEyOiJhdWRpdF9zeXN0ZW0iO2E6NDp7czo1OiJhdWRpdCI7aTozO3M6Njoic3lzdGVtIjtpOjM7czo1OiJjaGVjayI7aToxO3M6MTE6ImNvbm5lY3Rpb25zIjtpOjI7fXM6MTM6Im9wdGltaXplX2ZpbGUiO2E6ODp7czo4OiJvcHRpbWl6ZSI7aToyO3M6NDoiZmlsZSI7aToyO3M6NDoibWFrZSI7aToxO3M6NDoiY29kZSI7aTozO3M6NjoiYmV0dGVyIjtpOjE7czo4OiJyZWZhY3RvciI7aToxO3M6NzoiaW1wcm92ZSI7aToxO3M6NToiY2xlYW4iO2k6MTt9czoxMDoicGF0Y2hfZmlsZSI7YTo3OntzOjU6InBhdGNoIjtpOjM7czo0OiJmaWxlIjtpOjM7czo1OiJhcHBseSI7aToxO3M6MzoiZml4IjtpOjE7czo0OiJjb2RlIjtpOjE7czo0OiJhdXRvIjtpOjE7czo3OiJjb3JyZWN0IjtpOjE7fXM6MTQ6ImRlcGxveV9wcm9qZWN0IjthOjc6e3M6NjoiZGVwbG95IjtpOjI7czo3OiJwcm9qZWN0IjtpOjI7czo3OiJyZWxlYXNlIjtpOjE7czoxMToiYXBwbGljYXRpb24iO2k6MTtzOjQ6InB1c2giO2k6MTtzOjQ6InByb2QiO2k6MTtzOjQ6InNoaXAiO2k6MTt9czo5OiJlbmFibGVfYWkiO2E6Njp7czo2OiJlbmFibGUiO2k6MTtzOjI6ImFpIjtpOjM7czo2OiJicmlkZ2UiO2k6MTtzOjM6ImFwaSI7aToxO3M6OToiaW50ZWdyYXRlIjtpOjE7czozOiJhZGQiO2k6MTt9czo2OiJldm9sdmUiO2E6Nzp7czo2OiJldm9sdmUiO2k6MjtzOjY6InN5c3RlbSI7aToxO3M6NzoidXBncmFkZSI7aToxO3M6NjoiYmVjb21lIjtpOjE7czo3OiJzbWFydGVyIjtpOjE7czo0OiJzZWxmIjtpOjE7czo3OiJpbXByb3ZlIjtpOjE7fXM6ODoiZ2l0X2luaXQiO2E6Nzp7czozOiJnaXQiO2k6MztzOjQ6ImluaXQiO2k6MTtzOjEwOiJpbml0aWFsaXplIjtpOjE7czoxMDoicmVwb3NpdG9yeSI7aToxO3M6NToic3RhcnQiO2k6MTtzOjY6ImNyZWF0ZSI7aToxO3M6NDoicmVwbyI7aToxO31zOjY6ImNvbW1pdCI7YTo2OntzOjY6ImNvbW1pdCI7aTozO3M6NzoiY2hhbmdlcyI7aToxO3M6NDoic2F2ZSI7aToxO3M6NDoid29yayI7aToxO3M6MzoiZ2l0IjtpOjE7czo0OiJwdXNoIjtpOjE7fXM6MTE6InNwYXduX2FnZW50IjthOjc6e3M6NToic3Bhd24iO2k6MTtzOjU6ImFnZW50IjtpOjM7czo2OiJjcmVhdGUiO2k6MTtzOjM6Im5ldyI7aToyO3M6NDoibWFrZSI7aToxO3M6OToiYXNzaXN0YW50IjtpOjE7czoyOiJhaSI7aToxO31zOjEwOiJzaG93X3N3YXJtIjthOjU6e3M6NDoic2hvdyI7aToyO3M6NToic3dhcm0iO2k6MTtzOjQ6Imxpc3QiO2k6MTtzOjY6ImFnZW50cyI7aToyO3M6Nzoid29ya2luZyI7aToxO31zOjExOiJjb2xsYWJvcmF0ZSI7YTo1OntzOjExOiJjb2xsYWJvcmF0ZSI7aToyO3M6NDoid29yayI7aToyO3M6ODoidG9nZXRoZXIiO2k6MTtzOjY6ImFnZW50cyI7aToxO3M6NDoidGVhbSI7aToxO31zOjEzOiJhbmFseXplX2ltYWdlIjthOjU6e3M6NzoiYW5hbHl6ZSI7aToyO3M6NToiaW1hZ2UiO2k6MjtzOjQ6Imxvb2siO2k6MTtzOjc6InBpY3R1cmUiO2k6MTtzOjY6InZpc2lvbiI7aToxO31zOjc6ImltYWdpbmUiO2E6Nzp7czo3OiJpbWFnaW5lIjtpOjI7czo5OiJzb21ldGhpbmciO2k6MTtzOjQ6ImdpdmUiO2k6MTtzOjQ6ImlkZWEiO2k6MTtzOjg6ImNyZWF0aXZlIjtpOjE7czo1OiJ0aGluayI7aToxO3M6NToic3RvcnkiO2k6MTt9czoxMToic2luZ3VsYXJpdHkiO2E6NTp7czo1OiJyZWFjaCI7aToxO3M6MTE6InNpbmd1bGFyaXR5IjtpOjI7czo2OiJyZWFsbHkiO2k6MTtzOjQ6InRydWUiO2k6MTtzOjc6InB1cnBvc2UiO2k6MTt9czo1OiJ0cmFpbiI7YTo4OntzOjU6InRyYWluIjtpOjI7czo1OiJsaW5lcyI7aToxO3M6NToic3RhcnQiO2k6MTtzOjg6InRyYWluaW5nIjtpOjE7czo1OiJsZWFybiI7aToxO3M6NzoibWFzc2l2ZSI7aToxO3M6NDoiZGF0YSI7aToxO3M6NToibW9kZWwiO2k6MTt9czo5OiJ0cmFuc2xhdGUiO2E6NTp7czo5OiJ0cmFuc2xhdGUiO2k6MjtzOjc6ImNvbnZlcnQiO2k6MTtzOjg6Imxhbmd1YWdlIjtpOjI7czo0OiJ0ZXh0IjtpOjE7czo2OiJjaGFuZ2UiO2k6MTt9czo3OiJjb252ZXJ0IjthOjU6e3M6NzoiY29udmVydCI7aToxO3M6NjoiY2hhbmdlIjtpOjE7czo2OiJmb3JtYXQiO2k6MTtzOjk6InRyYW5zZm9ybSI7aToxO3M6NjoiZXhwb3J0IjtpOjE7fXM6MTI6ImRhdGFfYW5hbHl6ZSI7YTo2OntzOjc6ImFuYWx5emUiO2k6MjtzOjQ6ImRhdGEiO2k6MjtzOjg6ImRlc2NyaWJlIjtpOjE7czozOiJjc3YiO2k6MTtzOjc6ImRhdGFzZXQiO2k6MTtzOjg6ImFuYWx5c2lzIjtpOjE7fXM6MTY6ImdlbmVyYXRlX3Rob3VnaHQiO2E6MTA6e3M6NDoidGVsbCI7aToxO3M6NDoiam9rZSI7aToxO3M6NDoidGFsayI7aToxO3M6NToid3JpdGUiO2k6MTtzOjU6InN0b3J5IjtpOjE7czo1OiJ0aGluayI7aToxO3M6Mzoic2F5IjtpOjE7czo5OiJzb21ldGhpbmciO2k6MTtzOjU6ImhlbGxvIjtpOjE7czoyOiJoaSI7aToxO31zOjEzOiJnZW5lcmF0ZV9jb2RlIjthOjk6e3M6NToid3JpdGUiO2k6MjtzOjQ6ImNvZGUiO2k6MztzOjg6ImdlbmVyYXRlIjtpOjE7czo2OiJjcmVhdGUiO2k6MTtzOjg6ImZ1bmN0aW9uIjtpOjE7czozOiJwaHAiO2k6MTtzOjY6InNjcmlwdCI7aToxO3M6NDoibWFrZSI7aToxO3M6NToiY2xhc3MiO2k6MTt9fXM6NDM6IgBOTFBIUFxDbGFzc2lmaWNhdGlvblxOYWl2ZUJheWVzAHRvdGFsX2RvY3MiO2k6MTM3O30=",
+            "id": 1
+        },
+        {
+            "category": "user_profile",
+            "sub_category": "permanent_memory",
+            "k_key": "mera naam",
+            "k_value": "Mera Naam Joker is a 1970 Indian epic romantic drama film, directed, edited and produced by Raj Kapoor under his banner R. K. Films, and written by Khwaja Ahmad Abbas. The film stars Raj Kapoor as the eponymous character, with his son Rishi Kapoor making his screen debut playing his younger version, along with Simi Garewal, Kseniya Ryabinkina, Padmini, Manoj Kumar, Rajendra Kumar, Dharmendra and Dara Singh in supporting roles. The plot focuses on a clown who must make his audience laugh at the cost of his sorrows; three women who shaped his life view his final performance.",
+            "id": 2
+        }
+    ],
+    "neural_history": [
+        {
+            "session_id": "default",
+            "prompt": "hlo",
+            "response": "Namaste bhai! Main Hritik AI ready hoon. Aap bolo, kya karna hai?",
+            "intent": "general_chat",
+            "id": 1
+        },
+        {
+            "session_id": "default",
+            "prompt": "kya haal h",
+            "response": "Main theek hoon bhai, ab console bhi stable chal raha hai. Aap apna kaam batao.",
+            "intent": "general_chat",
+            "id": 2
+        },
+        {
+            "session_id": "default",
+            "prompt": "or btao",
+            "response": "Zoogocho Zapotec, or Di\u017ea'xon, is a Zapotec language of Oaxaca, Mexico.",
+            "intent": "general_chat",
+            "id": 3
+        },
+        {
+            "session_id": "default",
+            "prompt": "mera naam kya hh",
+            "response": "Johny Mera Naam is a 1970 Indian Hindi-language crime action film directed by Vijay Anand. The film stars the director's brother, Dev Anand and Pran in the roles of brothers separated in childhood. Hema Malini, Jeevan, Premnath, I. S. Johar, Iftekhar, Padma Khanna also star in pivotal roles.",
+            "intent": "general_chat",
+            "id": 4
+        },
+        {
+            "session_id": "default",
+            "prompt": "mera naam",
+            "response": "Mera Naam Joker is a 1970 Indian epic romantic drama film, directed, edited and produced by Raj Kapoor under his banner R. K. Films, and written by Khwaja Ahmad Abbas. The film stars Raj Kapoor as the eponymous character, with his son Rishi Kapoor making his screen debut playing his younger version, along with Simi Garewal, Kseniya Ryabinkina, Padmini, Manoj Kumar, Rajendra Kumar, Dharmendra and Dara Singh in supporting roles. The plot focuses on a clown who must make his audience laugh at the cost of his sorrows; three women who shaped his life view his final performance.",
+            "intent": "general_chat",
+            "id": 5
+        },
+        {
+            "session_id": "default",
+            "prompt": "hlo",
+            "response": "Namaste bhai! Main Hritik AI ready hoon. Aap bolo, kya karna hai?",
+            "intent": "general_chat",
+            "id": 6
+        },
+        {
+            "session_id": "default",
+            "prompt": "kya haal h",
+            "response": "Main theek hoon bhai, ab console bhi stable chal raha hai. Aap apna kaam batao.",
+            "intent": "general_chat",
+            "id": 7
+        },
+        {
+            "session_id": "default",
+            "prompt": "apne bare me btao",
+            "response": "Mera Naam Joker is a 1970 Indian epic romantic drama film, directed, edited and produced by Raj Kapoor under his banner R. K. Films, and written by Khwaja Ahmad Abbas. The film stars Raj Kapoor as the eponymous character, with his son Rishi Kapoor making his screen debut playing his younger version, along with Simi Garewal, Kseniya Ryabinkina, Padmini, Manoj Kumar, Rajendra Kumar, Dharmendra and Dara Singh in supporting roles. The plot focuses on a clown who must make his audience laugh at the cost of his sorrows; three women who shaped his life view his final performance.",
+            "intent": "general_chat",
+            "id": 8
+        }
+    ],
+    "neural_feedback_log": [
+        {
+            "event_time": "2026-05-25T17:19:22+00:00",
+            "prompt": "hlo",
+            "original_response": "hlo",
+            "final_response": "Namaste bhai! Main Hritik AI ready hoon. Aap bolo, kya karna hai?",
+            "meta_json": "{\"source\":\"built_in_conversation\"}",
+            "id": 1
+        },
+        {
+            "event_time": "2026-05-25T17:19:27+00:00",
+            "prompt": "kya haal h",
+            "original_response": "kya haal h",
+            "final_response": "Main theek hoon bhai, ab console bhi stable chal raha hai. Aap apna kaam batao.",
+            "meta_json": "{\"source\":\"built_in_conversation\"}",
+            "id": 2
+        },
+        {
+            "event_time": "2026-05-25T17:19:31+00:00",
+            "prompt": "or btao",
+            "original_response": "or btao",
+            "final_response": "Zoogocho Zapotec, or Di\u017ea'xon, is a Zapotec language of Oaxaca, Mexico.",
+            "meta_json": "{\"source\":\"online_search_api\"}",
+            "id": 3
+        },
+        {
+            "event_time": "2026-05-25T17:19:48+00:00",
+            "prompt": "mera naam kya hh",
+            "original_response": "mera naam kya hh",
+            "final_response": "Johny Mera Naam is a 1970 Indian Hindi-language crime action film directed by Vijay Anand. The film stars the director's brother, Dev Anand and Pran in the roles of brothers separated in childhood. Hema Malini, Jeevan, Premnath, I. S. Johar, Iftekhar, Padma Khanna also star in pivotal roles.",
+            "meta_json": "{\"source\":\"online_search_api\"}",
+            "id": 4
+        },
+        {
+            "event_time": "2026-05-25T17:19:57+00:00",
+            "prompt": "mera naam",
+            "original_response": "mera naam",
+            "final_response": "Mera Naam Joker is a 1970 Indian epic romantic drama film, directed, edited and produced by Raj Kapoor under his banner R. K. Films, and written by Khwaja Ahmad Abbas. The film stars Raj Kapoor as the eponymous character, with his son Rishi Kapoor making his screen debut playing his younger version, along with Simi Garewal, Kseniya Ryabinkina, Padmini, Manoj Kumar, Rajendra Kumar, Dharmendra and Dara Singh in supporting roles. The plot focuses on a clown who must make his audience laugh at the cost of his sorrows; three women who shaped his life view his final performance.",
+            "meta_json": "{\"source\":\"online_search_api\"}",
+            "id": 5
+        },
+        {
+            "event_time": "2026-05-25T17:23:05+00:00",
+            "prompt": "hlo",
+            "original_response": "hlo",
+            "final_response": "Namaste bhai! Main Hritik AI ready hoon. Aap bolo, kya karna hai?",
+            "meta_json": "{\"source\":\"built_in_conversation\"}",
+            "id": 6
+        },
+        {
+            "event_time": "2026-05-25T17:23:12+00:00",
+            "prompt": "kya haal h",
+            "original_response": "kya haal h",
+            "final_response": "Main theek hoon bhai, ab console bhi stable chal raha hai. Aap apna kaam batao.",
+            "meta_json": "{\"source\":\"built_in_conversation\"}",
+            "id": 7
+        },
+        {
+            "event_time": "2026-05-25T17:23:20+00:00",
+            "prompt": "apne bare me btao",
+            "original_response": "apne bare me btao",
+            "final_response": "Mera Naam Joker is a 1970 Indian epic romantic drama film, directed, edited and produced by Raj Kapoor under his banner R. K. Films, and written by Khwaja Ahmad Abbas. The film stars Raj Kapoor as the eponymous character, with his son Rishi Kapoor making his screen debut playing his younger version, along with Simi Garewal, Kseniya Ryabinkina, Padmini, Manoj Kumar, Rajendra Kumar, Dharmendra and Dara Singh in supporting roles. The plot focuses on a clown who must make his audience laugh at the cost of his sorrows; three women who shaped his life view his final performance.",
+            "meta_json": "{\"source\":\"dynamic_sql_knowledge\"}",
+            "id": 8
+        }
+    ]
+}
